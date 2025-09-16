@@ -1,0 +1,12 @@
+WarschauerStrasse			SchlesischesTor
+SchlesischesTor			GoerlitzerBahnhof
+GoerlitzerBahnhof			KottbusserTor
+KottbusserTor				Prinzenstrasse
+Prinzenstrasse				HalleschesTor
+HalleschesTor				Moeckernbruecke
+Moeckernbruecke			Gleisdreieck
+Gleisdreieck				Kurfuerstenstrasse
+Kurfuerstenstrasse			Nollendorfplatz
+Nollendorfplatz			Wittenbergplatz
+Wittenbergplatz			Kurfuerstendamm
+Kurfuerstendamm			Uhlandstrasse

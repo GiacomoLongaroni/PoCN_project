@@ -1,0 +1,8 @@
+LasTablasML	PalasdeReyML
+PalasdeReyML	MaríaTudorML
+MaríaTudorML	BlascoIbáñesML
+BlascoIbáñesML	ÁlvarezdeVillaamilML
+ÁlvarezdeVillaamilML	AntonioSauraML
+AntonioSauraML	VirgendelCortijoML
+VirgendelCortijoML	FuentedelaMoraML
+FuentedelaMoraML	PinardeChamartinML

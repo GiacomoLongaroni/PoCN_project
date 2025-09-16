@@ -1,0 +1,14 @@
+ShaTin	MongKokEast
+ShaTin	University
+Fanling	TaiPoMarket
+Fanling	SheungShui
+University	ShaTin
+University	TaiPoMarket
+LoWu	SheungShui
+TaiPoMarket	University
+TaiPoMarket	Fanling
+HungHom	MongKokEast
+MongKokEast	HungHom
+MongKokEast	ShaTin
+SheungShui	Fanling
+SheungShui	LoWu

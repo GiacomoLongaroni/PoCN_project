@@ -1,0 +1,12 @@
+Tribunal	Bilbao
+Tribunal	GranVía
+GranVía	Tribunal
+GranVía	Sol
+Sol	GranVía
+Bilbao	Iglesia
+Bilbao	Tribunal
+Iglesia	RíosRosas
+Iglesia	Bilbao
+CuatroCaminos	RíosRosas
+RíosRosas	CuatroCaminos
+RíosRosas	Iglesia

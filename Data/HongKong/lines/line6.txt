@@ -1,0 +1,4 @@
+AsiaWorld-Expo	Airport
+Airport			TsingYi
+TsingYi			Kowloon
+Kowloon			HongKong

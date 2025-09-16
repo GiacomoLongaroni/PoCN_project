@@ -1,0 +1,11 @@
+HungHom		EastTsimShaTsui
+EastTsimShaTsui	Austin
+Austin			NamCheong
+NamCheong		MeiFoo
+MeiFoo			TsuenWanWest
+TsuenWanWest	KamSheungRoad
+KamSheungRoad	YuenLong
+YuenLong		LongPing
+LongPing			TinShuiWai
+TinShuiWai		SiuHong
+SiuHong			TuenMun

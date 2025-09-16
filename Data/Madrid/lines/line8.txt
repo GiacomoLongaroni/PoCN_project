@@ -1,0 +1,7 @@
+AeropuertoT4	Barajas
+Barajas	AeropuertoT1-T2-T3
+AeropuertoT1-T2-T3	CampodelasNaciones
+CampodelasNaciones	MardeCristal
+MardeCristal	PinardelRey
+PinardelRey	Colombia
+Colombia	NuevosMinisterios

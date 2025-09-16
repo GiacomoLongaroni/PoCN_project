@@ -1,0 +1,16 @@
+Hammersmith	LadbrokeGrove
+Farringdon	King'sCrossSt.Pancras
+GreatPortlandStreet	BakerStreet
+GreatPortlandStreet	EustonSquare
+EustonSquare	GreatPortlandStreet
+EustonSquare	King'sCrossSt.Pancras
+Paddington	EdgwareRoad
+Paddington	LadbrokeGrove
+King'sCrossSt.Pancras	EustonSquare
+King'sCrossSt.Pancras	Farringdon
+LadbrokeGrove	Hammersmith
+LadbrokeGrove	Paddington
+BakerStreet	EdgwareRoad
+BakerStreet	GreatPortlandStreet
+EdgwareRoad	BakerStreet
+EdgwareRoad	Paddington

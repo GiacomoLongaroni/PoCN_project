@@ -1,0 +1,13 @@
+SheungWan	Central
+Central		Admiralty
+Admiralty	WanChai
+WanChai		CausewayBay
+CausewayBay	TinHau	
+TinHau		FortressHill
+FortressHill	NorthPoint	
+NorthPoint	QuarryBay
+QuarryBay	TaiKoo
+TaiKoo		SaiWanHo	
+SaiWanHo	ShauKeiWan	
+ShauKeiWan	HengFaChuen	
+HengFaChuen	ChaiWan	

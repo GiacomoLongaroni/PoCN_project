@@ -1,0 +1,13 @@
+BarrancadelMuerto	Mixcoac
+Mixcoac	SnAntonio
+SnAntonio	SnPedrodelosPinos
+SnPedrodelosPinos	Tacubaya
+Tacubaya	Constituyentes
+Constituyentes	Auditorio
+Auditorio	Polanco
+Polanco	SanJoaquin
+SanJoaquin	Tacuba
+Tacuba	Refineria
+Refineria	Camarones
+Camarones	AquilesSerdan
+AquilesSerdan	ElRosario

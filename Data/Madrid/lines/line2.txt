@@ -1,0 +1,15 @@
+CuatroCaminos	Canal
+Canal	Quevedo
+Quevedo	SanBernardo
+SanBernardo	PlazadeEspaña/Noviciado
+PlazadeEspaña/Noviciado	SantoDomingo
+SantoDomingo	Opera
+Opera	Sol
+Sol	Sevilla
+Sevilla	BancodeEspaña
+BancodeEspaña	Retiro
+Retiro	PríncipedeVergara
+PríncipedeVergara	Goya
+Goya	ManuelBecerra
+ManuelBecerra	Ventas
+Ventas	LaElipa

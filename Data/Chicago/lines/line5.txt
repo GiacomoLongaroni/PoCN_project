@@ -1,0 +1,8 @@
+Midway		Pulaski
+Pulaski		Kedzie
+Kedzie		Western
+Western		35thArcher
+35thArcher	Ashland
+Ashland		Halsted
+Halsted		Roosevelt
+Roosevelt	HaroldWashingtonLibraryStateVanBuren

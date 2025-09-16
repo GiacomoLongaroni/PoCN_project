@@ -1,0 +1,15 @@
+Central			Admiralty
+Admiralty	  	TsimShaTsui
+TsimShaTsui	  	Jordan
+Jordan		  	YauMaTei
+YauMaTei			MongKok
+MongKok		PrinceEdward
+PrinceEdward	  	ShamShuiPo
+ShamShuiPo 	  	CheungShaWan
+CheungShaWan	LaiChiKok	
+LaiChiKok		MeiFoo			
+MeiFoo			LaiKing
+LaiKing			KwaiFong
+KwaiFong			KwaiHing
+KwaiHing			TaiWoHau
+TaiWoHau		TsuenWan

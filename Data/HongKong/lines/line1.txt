@@ -1,0 +1,13 @@
+HungHom	MongKokEast
+MongKokEast	KowloonTong
+KowloonTong	TaiWai
+TaiWai		ShaTin
+ShaTin		FoTan
+FoTan		Racecourse
+Racecourse	University
+University	TaiPoMarket
+TaiPoMarket	TaiWo
+TaiWo		Fanling
+Fanling		SheungShui
+SheungShui	LoWu
+LoWu		LokMaChau
