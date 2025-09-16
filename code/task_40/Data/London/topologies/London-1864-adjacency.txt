@@ -1,0 +1,8 @@
+BakerStreet	GreatPortlandStreet
+GreatPortlandStreet	BakerStreet
+GreatPortlandStreet	EustonSquare
+EustonSquare	GreatPortlandStreet
+EustonSquare	King'sCrossSt.Pancras
+Farringdon	King'sCrossSt.Pancras
+King'sCrossSt.Pancras	EustonSquare
+King'sCrossSt.Pancras	Farringdon

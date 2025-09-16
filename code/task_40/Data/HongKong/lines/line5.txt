@@ -1,0 +1,7 @@
+TungChung	SunnyBay
+SunnyBay		TsingYi
+TsingYi		LaiKing
+LaiKing		NamCheong
+NamCheong	Olympic
+Olympic		Kowloon
+Kowloon		HongKong

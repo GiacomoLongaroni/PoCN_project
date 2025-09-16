@@ -1,0 +1,15 @@
+WalthamstowCentral	BlackhorseRoad
+BlackhorseRoad	TottenhamHale
+TottenhamHale	SevenSisters
+SevenSisters	FinsburyPark
+FinsburyPark	HighburyandIslington
+HighburyandIslington	King'sCrossSt.Pancras
+King'sCrossSt.Pancras	Euston
+Euston	WarrenStreet
+WarrenStreet	OxfordCircus
+OxfordCircus	GreenPark
+GreenPark	Victoria
+Victoria	Pimlico
+Pimlico	Vauxhall
+Vauxhall	Stockwell
+Stockwell	Brixton

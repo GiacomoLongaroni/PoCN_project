@@ -1,0 +1,975 @@
+{
+  "1": {
+    "label": "AlfonsX",
+    "lat": 41.411667,
+    "lon": 2.165278,
+    "year": 1974,
+    "ID": 1
+  },
+  "2": {
+    "label": "Almeda",
+    "lat": 41.3531079,
+    "lon": 2.0853534,
+    "year": 1985,
+    "ID": 2
+  },
+  "3": {
+    "label": "ArcdeTriomf",
+    "lat": 41.391389,
+    "lon": 2.179722,
+    "year": 1926,
+    "ID": 3
+  },
+  "4": {
+    "label": "Artigues-SantAdria",
+    "lat": 41.433,
+    "lon": 2.217,
+    "year": 1995,
+    "ID": 4
+  },
+  "5": {
+    "label": "AvingudaCarrilet",
+    "lat": 41.358,
+    "lon": 2.103,
+    "year": 1926,
+    "ID": 5
+  },
+  "6": {
+    "label": "AvingudaTibidabo",
+    "lat": 41.405833,
+    "lon": 2.138611,
+    "year": 1954,
+    "ID": 6
+  },
+  "7": {
+    "label": "BacdeRoda",
+    "lat": 41.413611,
+    "lon": 2.193889,
+    "year": 1995,
+    "ID": 7
+  },
+  "8": {
+    "label": "Badal",
+    "lat": 41.376,
+    "lon": 2.129,
+    "year": 1959,
+    "ID": 8
+  },
+  "9": {
+    "label": "BadalonaCentre",
+    "lat": 41.451667,
+    "lon": 2.251389,
+    "year": 1995,
+    "ID": 9
+  },
+  "10": {
+    "label": "Barceloneta",
+    "lat": 41.3824734,
+    "lon": 2.1856404,
+    "year": 0,
+    "ID": 10
+  },
+  "11": {
+    "label": "BarodeViver",
+    "lat": 41.448333,
+    "lon": 2.200278,
+    "year": 1926,
+    "ID": 11
+  },
+  "12": {
+    "label": "Bellvitge",
+    "lat": 41.351389,
+    "lon": 2.111944,
+    "year": 1926,
+    "ID": 12
+  },
+  "13": {
+    "label": "Besos",
+    "lat": 41.420161,
+    "lon": 2.209283,
+    "year": 2010,
+    "ID": 13
+  },
+  "14": {
+    "label": "BesosMar",
+    "lat": 41.414722,
+    "lon": 2.216667,
+    "year": 1982,
+    "ID": 14
+  },
+  "15": {
+    "label": "Bogatell",
+    "lat": 41.3949555,
+    "lon": 2.1913117,
+    "year": 0,
+    "ID": 15
+  },
+  "16": {
+    "label": "BonPastor",
+    "lat": 41.436147,
+    "lon": 2.205226,
+    "year": 2009,
+    "ID": 16
+  },
+  "17": {
+    "label": "Campdel'Arpa",
+    "lat": 41.415,
+    "lon": 2.181111,
+    "year": 1959,
+    "ID": 17
+  },
+  "18": {
+    "label": "CanBoixeres",
+    "lat": 41.366342,
+    "lon": 2.090686,
+    "year": 1959,
+    "ID": 18
+  },
+  "19": {
+    "label": "CanCuias",
+    "lat": 41.4632,
+    "lon": 2.17181,
+    "year": 2007,
+    "ID": 19
+  },
+  "20": {
+    "label": "CanPeixauet",
+    "lat": 41.444444,
+    "lon": 2.209722,
+    "year": 2009,
+    "ID": 20
+  },
+  "21": {
+    "label": "CanSerra",
+    "lat": 41.367222,
+    "lon": 2.103056,
+    "year": 1926,
+    "ID": 21
+  },
+  "22": {
+    "label": "CanVidalet",
+    "lat": 41.371111,
+    "lon": 2.099444,
+    "year": 1959,
+    "ID": 22
+  },
+  "23": {
+    "label": "Canyelles",
+    "lat": 41.442778,
+    "lon": 2.167778,
+    "year": 1924,
+    "ID": 23
+  },
+  "24": {
+    "label": "CanZam",
+    "lat": 41.4575,
+    "lon": 2.198056,
+    "year": 2009,
+    "ID": 24
+  },
+  "25": {
+    "label": "Casadel'Aigua",
+    "lat": 41.452778,
+    "lon": 2.186111,
+    "year": 2007,
+    "ID": 25
+  },
+  "26": {
+    "label": "Catalunya",
+    "lat": 41.386944,
+    "lon": 2.17,
+    "year": 1926,
+    "ID": 26
+  },
+  "27": {
+    "label": "CiutatMeridiana",
+    "lat": 41.4609,
+    "lon": 2.1744,
+    "year": 2007,
+    "ID": 27
+  },
+  "28": {
+    "label": "Ciutadella-VilaOlimpica",
+    "lat": 41.3880115,
+    "lon": 2.1934722,
+    "year": 0,
+    "ID": 28
+  },
+  "29": {
+    "label": "Clot",
+    "lat": 41.408611,
+    "lon": 2.186667,
+    "year": 1926,
+    "ID": 29
+  },
+  "30": {
+    "label": "Collblanc",
+    "lat": 41.375556,
+    "lon": 2.120556,
+    "year": 1959,
+    "ID": 30
+  },
+  "31": {
+    "label": "Congres",
+    "lat": 41.423333,
+    "lon": 2.180556,
+    "year": 1959,
+    "ID": 31
+  },
+  "32": {
+    "label": "CornellaCentre",
+    "lat": 41.358,
+    "lon": 2.071,
+    "year": 1959,
+    "ID": 32
+  },
+  "33": {
+    "label": "Cornella-Riera",
+    "lat": 41.351389,
+    "lon": 2.070556,
+    "year": 1985,
+    "ID": 33
+  },
+  "34": {
+    "label": "DiagonalProvenca",
+    "lat": 41.394722,
+    "lon": 2.159722,
+    "year": 1924,
+    "ID": 34
+  },
+  "35": {
+    "label": "Drassanes",
+    "lat": 41.377,
+    "lon": 2.176,
+    "year": 1924,
+    "ID": 35
+  },
+  "36": {
+    "label": "ElCarmel",
+    "lat": 41.424722,
+    "lon": 2.155278,
+    "year": 1959,
+    "ID": 36
+  },
+  "37": {
+    "label": "ElCollLaTeixonera",
+    "lat": 41.420278,
+    "lon": 2.149722,
+    "year": 1959,
+    "ID": 37
+  },
+  "38": {
+    "label": "ElMaresme-Forum",
+    "lat": 41.4119199,
+    "lon": 2.2175563,
+    "year": 0,
+    "ID": 38
+  },
+  "39": {
+    "label": "ElPutxet",
+    "lat": 41.405833,
+    "lon": 2.139167,
+    "year": 1953,
+    "ID": 39
+  },
+  "40": {
+    "label": "Encants",
+    "lat": 41.406859,
+    "lon": 2.1824183,
+    "year": 1995,
+    "ID": 40
+  },
+  "41": {
+    "label": "Entenca",
+    "lat": 41.384,
+    "lon": 2.145,
+    "year": 1959,
+    "ID": 41
+  },
+  "42": {
+    "label": "ErnestLluch",
+    "lat": 41.376533,
+    "lon": 2.111914,
+    "year": 1959,
+    "ID": 42
+  },
+  "43": {
+    "label": "EsglesiaMajor",
+    "lat": 41.454167,
+    "lon": 2.212222,
+    "year": 2009,
+    "ID": 43
+  },
+  "44": {
+    "label": "Espanya",
+    "lat": 41.374722,
+    "lon": 2.149167,
+    "year": 1926,
+    "ID": 44
+  },
+  "45": {
+    "label": "Europa-Fira",
+    "lat": 41.356978,
+    "lon": 2.124908,
+    "year": 2007,
+    "ID": 45
+  },
+  "46": {
+    "label": "FabraiPuig",
+    "lat": 41.431,
+    "lon": 2.183,
+    "year": 1926,
+    "ID": 46
+  },
+  "47": {
+    "label": "Florida",
+    "lat": 41.367778,
+    "lon": 2.111944,
+    "year": 1926,
+    "ID": 47
+  },
+  "48": {
+    "label": "Fondo",
+    "lat": 41.451667,
+    "lon": 2.218333,
+    "year": 1926,
+    "ID": 48
+  },
+  "49": {
+    "label": "Fontana",
+    "lat": 41.4025,
+    "lon": 2.1525,
+    "year": 1925,
+    "ID": 49
+  },
+  "50": {
+    "label": "Gavarra",
+    "lat": 41.356944,
+    "lon": 2.079444,
+    "year": 1959,
+    "ID": 50
+  },
+  "51": {
+    "label": "Glories",
+    "lat": 41.403333,
+    "lon": 2.186944,
+    "year": 1926,
+    "ID": 51
+  },
+  "52": {
+    "label": "Gornal",
+    "lat": 41.3607857,
+    "lon": 2.1191547,
+    "year": 0,
+    "ID": 52
+  },
+  "53": {
+    "label": "Gorg",
+    "lat": 41.440461,
+    "lon": 2.233833,
+    "year": 1995,
+    "ID": 53
+  },
+  "54": {
+    "label": "Gracia",
+    "lat": 41.399556,
+    "lon": 2.152167,
+    "year": 1929,
+    "ID": 54
+  },
+  "55": {
+    "label": "Girona",
+    "lat": 41.3943963,
+    "lon": 2.1703879,
+    "year": 0,
+    "ID": 55
+  },
+  "56": {
+    "label": "Guinardo",
+    "lat": 41.416042,
+    "lon": 2.174364,
+    "year": 2009,
+    "ID": 56
+  },
+  "57": {
+    "label": "Guinardo-HospitaldeSantPau",
+    "lat": 41.416042,
+    "lon": 2.174364,
+    "year": 0,
+    "ID": 57
+  },
+  "58": {
+    "label": "Horta",
+    "lat": 41.429444,
+    "lon": 2.161944,
+    "year": 1959,
+    "ID": 58
+  },
+  "59": {
+    "label": "HospitalClinic",
+    "lat": 41.387778,
+    "lon": 2.150278,
+    "year": 1959,
+    "ID": 59
+  },
+  "60": {
+    "label": "HospitaldeBellvitge",
+    "lat": 41.343333,
+    "lon": 2.105278,
+    "year": 1989,
+    "ID": 60
+  },
+  "61": {
+    "label": "Hostafrancs",
+    "lat": 41.375278,
+    "lon": 2.143611,
+    "year": 1926,
+    "ID": 61
+  },
+  "62": {
+    "label": "IldefonsCerda",
+    "lat": 41.3608,
+    "lon": 2.13028,
+    "year": 1987,
+    "ID": 62
+  },
+  "63": {
+    "label": "JaumeI",
+    "lat": 41.383611,
+    "lon": 2.178611,
+    "year": 1926,
+    "ID": 63
+  },
+  "64": {
+    "label": "Joanic",
+    "lat": 41.405556,
+    "lon": 2.163056,
+    "year": 1973,
+    "ID": 64
+  },
+  "65": {
+    "label": "LaSagrera",
+    "lat": 41.4225,
+    "lon": 2.186944,
+    "year": 2009,
+    "ID": 65
+  },
+  "66": {
+    "label": "LaBonanova",
+    "lat": 41.3976666,
+    "lon": 2.1361493,
+    "year": 1952,
+    "ID": 66
+  },
+  "67": {
+    "label": "LaPau",
+    "lat": 41.4232473,
+    "lon": 2.2059534,
+    "year": 1995,
+    "ID": 67
+  },
+  "68": {
+    "label": "LaSalut",
+    "lat": 41.4432553,
+    "lon": 2.2245523,
+    "year": 2010,
+    "ID": 68
+  },
+  "69": {
+    "label": "LesCorts",
+    "lat": 41.3842669,
+    "lon": 2.131342,
+    "year": 1924,
+    "ID": 69
+  },
+  "70": {
+    "label": "Lesseps",
+    "lat": 41.4066258,
+    "lon": 2.1498893,
+    "year": 1924,
+    "ID": 70
+  },
+  "71": {
+    "label": "LesTresTorres",
+    "lat": 41.397842,
+    "lon": 2.1309,
+    "year": 1952,
+    "ID": 71
+  },
+  "72": {
+    "label": "Liceu",
+    "lat": 41.3812172,
+    "lon": 2.1732213,
+    "year": 1924,
+    "ID": 72
+  },
+  "73": {
+    "label": "Llacuna",
+    "lat": 41.3990906,
+    "lon": 2.1970859,
+    "year": 0,
+    "ID": 73
+  },
+  "74": {
+    "label": "Llefia",
+    "lat": 41.441311,
+    "lon": 2.217503,
+    "year": 2010,
+    "ID": 74
+  },
+  "75": {
+    "label": "Llucmajor",
+    "lat": 41.4372495,
+    "lon": 2.17325,
+    "year": 0,
+    "ID": 75
+  },
+  "76": {
+    "label": "Magoria-LaCampana",
+    "lat": 41.3675,
+    "lon": 2.139444,
+    "year": 1997,
+    "ID": 76
+  },
+  "77": {
+    "label": "Maragall",
+    "lat": 41.4240999,
+    "lon": 2.1778686,
+    "year": 1959,
+    "ID": 77
+  },
+  "78": {
+    "label": "MariaCristina",
+    "lat": 41.387951,
+    "lon": 2.1264477,
+    "year": 1924,
+    "ID": 78
+  },
+  "79": {
+    "label": "Marina",
+    "lat": 41.394444,
+    "lon": 2.186667,
+    "year": 1926,
+    "ID": 79
+  },
+  "80": {
+    "label": "MercatNou",
+    "lat": 41.373333,
+    "lon": 2.133889,
+    "year": 1926,
+    "ID": 80
+  },
+  "81": {
+    "label": "MoliNou-CiutatCooperativa",
+    "lat": 41.3575065,
+    "lon": 2.0353131,
+    "year": 2000,
+    "ID": 81
+  },
+  "82": {
+    "label": "Montbau",
+    "lat": 41.4300463,
+    "lon": 2.1448117,
+    "year": 1924,
+    "ID": 82
+  },
+  "83": {
+    "label": "Monumental",
+    "lat": 41.4002363,
+    "lon": 2.1800119,
+    "year": 1995,
+    "ID": 83
+  },
+  "84": {
+    "label": "Mundet",
+    "lat": 41.4352471,
+    "lon": 2.1492222,
+    "year": 1924,
+    "ID": 84
+  },
+  "85": {
+    "label": "Muntaner",
+    "lat": 41.3986303,
+    "lon": 2.1428632,
+    "year": 1954,
+    "ID": 85
+  },
+  "86": {
+    "label": "Navas",
+    "lat": 41.415556,
+    "lon": 2.186944,
+    "year": 1926,
+    "ID": 86
+  },
+  "87": {
+    "label": "OnzedeSetembre",
+    "lat": 41.429646,
+    "lon": 2.1930525,
+    "year": 2009,
+    "ID": 87
+  },
+  "88": {
+    "label": "Padua",
+    "lat": 41.4033258,
+    "lon": 2.1430586,
+    "year": 1953,
+    "ID": 88
+  },
+  "89": {
+    "label": "PalauReial",
+    "lat": 41.386087,
+    "lon": 2.1186695,
+    "year": 1924,
+    "ID": 89
+  },
+  "90": {
+    "label": "Parallel",
+    "lat": 41.3749806,
+    "lon": 2.1682187,
+    "year": 1924,
+    "ID": 90
+  },
+  "91": {
+    "label": "PasseigdeGracia",
+    "lat": 41.39,
+    "lon": 2.167778,
+    "year": 1995,
+    "ID": 91
+  },
+  "92": {
+    "label": "Penitents",
+    "lat": 41.4175081,
+    "lon": 2.1409821,
+    "year": 1924,
+    "ID": 92
+  },
+  "93": {
+    "label": "PepVentura",
+    "lat": 41.4442315,
+    "lon": 2.23818,
+    "year": 1995,
+    "ID": 93
+  },
+  "94": {
+    "label": "PlacadelCentre",
+    "lat": 41.3820112,
+    "lon": 2.1361939,
+    "year": 1924,
+    "ID": 94
+  },
+  "95": {
+    "label": "PlacadeSants",
+    "lat": 41.375278,
+    "lon": 2.136389,
+    "year": 1926,
+    "ID": 95
+  },
+  "96": {
+    "label": "PlacaMolina",
+    "lat": 41.4013236,
+    "lon": 2.1474274,
+    "year": 1954,
+    "ID": 96
+  },
+  "97": {
+    "label": "Poblenou",
+    "lat": 41.4032281,
+    "lon": 2.2026098,
+    "year": 0,
+    "ID": 97
+  },
+  "98": {
+    "label": "PobleSec",
+    "lat": 41.374993,
+    "lon": 2.1605117,
+    "year": 1924,
+    "ID": 98
+  },
+  "99": {
+    "label": "PubillaCases",
+    "lat": 41.3730575,
+    "lon": 2.106143,
+    "year": 1959,
+    "ID": 99
+  },
+  "100": {
+    "label": "RamblaJustOliveras",
+    "lat": 41.3633,
+    "lon": 2.1,
+    "year": 1926,
+    "ID": 100
+  },
+  "101": {
+    "label": "ReinaElisenda",
+    "lat": 41.3987655,
+    "lon": 2.1180732,
+    "year": 1976,
+    "ID": 101
+  },
+  "102": {
+    "label": "Rocafort",
+    "lat": 41.378889,
+    "lon": 2.154444,
+    "year": 1926,
+    "ID": 102
+  },
+  "103": {
+    "label": "Roquetes",
+    "lat": 41.4473182,
+    "lon": 2.1757584,
+    "year": 1924,
+    "ID": 103
+  },
+  "104": {
+    "label": "SagradaFamilia",
+    "lat": 41.4043724,
+    "lon": 2.1747257,
+    "year": 1959,
+    "ID": 104
+  },
+  "105": {
+    "label": "Sagrera",
+    "lat": 41.4223244,
+    "lon": 2.1873159,
+    "year": 1926,
+    "ID": 105
+  },
+  "106": {
+    "label": "SantaColoma",
+    "lat": 41.4510042,
+    "lon": 2.2081678,
+    "year": 1926,
+    "ID": 106
+  },
+  "107": {
+    "label": "SantaEulalia",
+    "lat": 41.3686,
+    "lon": 2.1275,
+    "year": 1926,
+    "ID": 107
+  },
+  "108": {
+    "label": "SantAndreu",
+    "lat": 41.4357316,
+    "lon": 2.1913321,
+    "year": 1926,
+    "ID": 108
+  },
+  "109": {
+    "label": "SantAntoni",
+    "lat": 41.3790991,
+    "lon": 2.1632566,
+    "year": 1995,
+    "ID": 109
+  },
+  "110": {
+    "label": "SantBoi",
+    "lat": 41.3483589,
+    "lon": 2.0432341,
+    "year": 1912,
+    "ID": 110
+  },
+  "111": {
+    "label": "SantGervasi",
+    "lat": 41.4009674,
+    "lon": 2.1471976,
+    "year": 1929,
+    "ID": 111
+  },
+  "112": {
+    "label": "SantIldefons",
+    "lat": 41.3632586,
+    "lon": 2.0835869,
+    "year": 1959,
+    "ID": 112
+  },
+  "113": {
+    "label": "SantJosep",
+    "lat": 41.3609109,
+    "lon": 2.1107113,
+    "year": 1985,
+    "ID": 113
+  },
+  "114": {
+    "label": "SantMarti",
+    "lat": 41.4175,
+    "lon": 2.198333,
+    "year": 1997,
+    "ID": 114
+  },
+  "115": {
+    "label": "SantPau-DosdeMaig",
+    "lat": 41.4111247,
+    "lon": 2.1759585,
+    "year": 1959,
+    "ID": 115
+  },
+  "116": {
+    "label": "SantRoc",
+    "lat": 41.4351931,
+    "lon": 2.2280478,
+    "year": 1995,
+    "ID": 116
+  },
+  "117": {
+    "label": "SantsEstacio",
+    "lat": 41.3788741,
+    "lon": 2.1397178,
+    "year": 1924,
+    "ID": 117
+  },
+  "118": {
+    "label": "Sarria",
+    "lat": 41.3984539,
+    "lon": 2.1252884,
+    "year": 1929,
+    "ID": 118
+  },
+  "119": {
+    "label": "SelvadeMar",
+    "lat": 41.4083198,
+    "lon": 2.2095906,
+    "year": 0,
+    "ID": 119
+  },
+  "120": {
+    "label": "Singuerlin",
+    "lat": 41.4599481,
+    "lon": 2.2056038,
+    "year": 2009,
+    "ID": 120
+  },
+  "121": {
+    "label": "Tarragona",
+    "lat": 41.3784554,
+    "lon": 2.1454021,
+    "year": 1924,
+    "ID": 121
+  },
+  "122": {
+    "label": "Tetuan",
+    "lat": 41.3948906,
+    "lon": 2.1756773,
+    "year": 1995,
+    "ID": 122
+  },
+  "123": {
+    "label": "TorrasiBages",
+    "lat": 41.442383,
+    "lon": 2.1908985,
+    "year": 1926,
+    "ID": 123
+  },
+  "124": {
+    "label": "Torrassa",
+    "lat": 41.368611,
+    "lon": 2.116111,
+    "year": 1926,
+    "ID": 124
+  },
+  "125": {
+    "label": "TorreBaro-Vallbona",
+    "lat": 41.4590213,
+    "lon": 2.1798934,
+    "year": 2007,
+    "ID": 125
+  },
+  "126": {
+    "label": "TrinitatNova",
+    "lat": 41.4488978,
+    "lon": 2.1825782,
+    "year": 1924,
+    "ID": 126
+  },
+  "127": {
+    "label": "TrinitatVella",
+    "lat": 41.4492121,
+    "lon": 2.1933675,
+    "year": 1926,
+    "ID": 127
+  },
+  "128": {
+    "label": "Universitat",
+    "lat": 41.385278,
+    "lon": 2.163611,
+    "year": 1926,
+    "ID": 128
+  },
+  "129": {
+    "label": "Urgell",
+    "lat": 41.382222,
+    "lon": 2.158889,
+    "year": 1926,
+    "ID": 129
+  },
+  "130": {
+    "label": "Urquinaona",
+    "lat": 41.389167,
+    "lon": 2.173333,
+    "year": 1926,
+    "ID": 130
+  },
+  "131": {
+    "label": "Vallcarca",
+    "lat": 41.411638,
+    "lon": 2.1452035,
+    "year": 1924,
+    "ID": 131
+  },
+  "132": {
+    "label": "Valldaura",
+    "lat": 41.4380738,
+    "lon": 2.1566879,
+    "year": 1924,
+    "ID": 132
+  },
+  "133": {
+    "label": "Valld'Hebron",
+    "lat": 41.4247367,
+    "lon": 2.1429799,
+    "year": 1924,
+    "ID": 133
+  },
+  "134": {
+    "label": "Verdaguer",
+    "lat": 41.399799,
+    "lon": 2.1682979,
+    "year": 1959,
+    "ID": 134
+  },
+  "135": {
+    "label": "Verneda",
+    "lat": 41.4300128,
+    "lon": 2.2099884,
+    "year": 1995,
+    "ID": 135
+  },
+  "136": {
+    "label": "ViaJulia",
+    "lat": 41.4436933,
+    "lon": 2.1786248,
+    "year": 0,
+    "ID": 136
+  },
+  "137": {
+    "label": "Vilapicina",
+    "lat": 41.4302573,
+    "lon": 2.1681827,
+    "year": 1959,
+    "ID": 137
+  },
+  "138": {
+    "label": "VirreiAmat",
+    "lat": 41.430156,
+    "lon": 2.1747153,
+    "year": 1959,
+    "ID": 138
+  },
+  "139": {
+    "label": "ZonaUniversitaria",
+    "lat": 41.3843518,
+    "lon": 2.111917,
+    "year": 1924,
+    "ID": 139
+  }
+}

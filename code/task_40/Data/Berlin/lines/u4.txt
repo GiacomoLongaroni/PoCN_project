@@ -1,0 +1,4 @@
+Nollendorfplatz			Viktoria-Luise-Platz
+Viktoria-Luise-Platz		BayerischerPlatz 
+BayerischerPlatz 			RathausSchoeneberg
+RathausSchoeneberg		InnsbruckerPlatz

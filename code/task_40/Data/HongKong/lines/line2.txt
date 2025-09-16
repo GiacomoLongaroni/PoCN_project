@@ -1,0 +1,14 @@
+YauMaTei		MongKok
+MongKok		PrinceEdward
+PrinceEdward	ShekKipMei
+ShekKipMei	KowloonTong
+KowloonTong	LokFu
+LokFu		WongTaiSin
+WongTaiSin	DiamondHill
+DiamondHill	ChoiHung
+ChoiHung	KowloonBay
+KowloonBay	NgauTauKok
+NgauTauKok	KwunTong
+KwunTong	LamTin
+LamTin		YauTong
+YauTong		TiuKengLeng

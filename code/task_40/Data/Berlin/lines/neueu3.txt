@@ -1,0 +1,14 @@
+Nollendorfplatz			Wittenbergplatz
+Wittenbergplatz			AugsburgerStrasse
+AugsburgerStrasse			Spichernstrasse
+Spichernstrasse			Hohenzollernplatz
+Hohenzollernplatz			FehrbellinerPlatz 
+FehrbellinerPlatz 			HeidelbergerPlatz
+HeidelbergerPlatz			RuedesheimerPlatz
+RuedesheimerPlatz			Breitenbachplatz
+Breitenbachplatz			Podbielskiallee
+Podbielskiallee			Dahlem-Dorf
+Dahlem-Dorf				Thielplatz
+Thielplatz				Oskar-Helene-Heim
+Oskar-Helene-Heim		OnkelTomsHuette
+OnkelTomsHuette			KrummeLanke

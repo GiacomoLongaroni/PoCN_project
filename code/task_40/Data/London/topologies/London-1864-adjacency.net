@@ -1,0 +1,16 @@
+*Network
+*Vertices 333
+12 "BakerStreet" -0.1572 51.5226 0
+114 "GreatPortlandStreet" -0.143889 51.523889 0
+98 "EustonSquare" -0.1345 51.5287 0
+100 "Farringdon" -0.1053 51.5206 0
+164 "King'sCrossSt.Pancras" -0.1233 51.5324 0
+*Edges
+12 114 1
+114 12 1
+114 98 1
+98 114 1
+98 164 1
+100 164 1
+164 98 1
+164 100 1

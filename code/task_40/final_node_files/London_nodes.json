@@ -1,0 +1,2333 @@
+{
+  "1": {
+    "label": "ActonCentral",
+    "lat": -0.2634,
+    "lon": 51.5088,
+    "year": 1925,
+    "ID": 1
+  },
+  "2": {
+    "label": "ActonTown",
+    "lat": -0.28,
+    "lon": 51.502778,
+    "year": 1879,
+    "ID": 2
+  },
+  "3": {
+    "label": "Aldgate",
+    "lat": -0.082,
+    "lon": 51.516,
+    "year": 1876,
+    "ID": 3
+  },
+  "4": {
+    "label": "AldgateEast",
+    "lat": -0.072222,
+    "lon": 51.515278,
+    "year": 1884,
+    "ID": 4
+  },
+  "5": {
+    "label": "AllSaints",
+    "lat": -0.013056,
+    "lon": 51.510833,
+    "year": 1987,
+    "ID": 5
+  },
+  "6": {
+    "label": "Alperton",
+    "lat": -0.299722,
+    "lon": 51.540833,
+    "year": 1903,
+    "ID": 6
+  },
+  "7": {
+    "label": "Amersham",
+    "lat": -0.6088,
+    "lon": 51.6747,
+    "year": 1892,
+    "ID": 7
+  },
+  "8": {
+    "label": "Angel",
+    "lat": -0.106111,
+    "lon": 51.532778,
+    "year": 1901,
+    "ID": 8
+  },
+  "9": {
+    "label": "Archway",
+    "lat": -0.135,
+    "lon": 51.565556,
+    "year": 1907,
+    "ID": 9
+  },
+  "10": {
+    "label": "ArnosGrove",
+    "lat": -0.133536,
+    "lon": 51.616322,
+    "year": 1932,
+    "ID": 10
+  },
+  "11": {
+    "label": "Arsenal",
+    "lat": -0.105833,
+    "lon": 51.558611,
+    "year": 1906,
+    "ID": 11
+  },
+  "12": {
+    "label": "BakerStreet",
+    "lat": -0.1572,
+    "lon": 51.5226,
+    "year": 1863,
+    "ID": 12
+  },
+  "13": {
+    "label": "Balham",
+    "lat": -0.152,
+    "lon": 51.4426,
+    "year": 1926,
+    "ID": 13
+  },
+  "14": {
+    "label": "Bank",
+    "lat": -0.088611,
+    "lon": 51.513333,
+    "year": 1898,
+    "ID": 14
+  },
+  "15": {
+    "label": "Barbican",
+    "lat": -0.0977,
+    "lon": 51.5202,
+    "year": 1865,
+    "ID": 15
+  },
+  "16": {
+    "label": "Barking",
+    "lat": 0.0817,
+    "lon": 51.5393,
+    "year": 1902,
+    "ID": 16
+  },
+  "17": {
+    "label": "Barkingside",
+    "lat": 0.0886,
+    "lon": 51.58486,
+    "year": 1948,
+    "ID": 17
+  },
+  "18": {
+    "label": "BaronsCourt",
+    "lat": -0.213611,
+    "lon": 51.490556,
+    "year": 1905,
+    "ID": 18
+  },
+  "19": {
+    "label": "Bayswater",
+    "lat": -0.188,
+    "lon": 51.512,
+    "year": 1868,
+    "ID": 19
+  },
+  "20": {
+    "label": "Beckton",
+    "lat": 0.061389,
+    "lon": 51.514722,
+    "year": 1994,
+    "ID": 20
+  },
+  "21": {
+    "label": "BecktonPark",
+    "lat": 0.055,
+    "lon": 51.508889,
+    "year": 1994,
+    "ID": 21
+  },
+  "22": {
+    "label": "Becontree",
+    "lat": 0.126944,
+    "lon": 51.540278,
+    "year": 1932,
+    "ID": 22
+  },
+  "23": {
+    "label": "BelsizePark",
+    "lat": -0.164444,
+    "lon": 51.550278,
+    "year": 1907,
+    "ID": 23
+  },
+  "24": {
+    "label": "Bermondsey",
+    "lat": -0.063889,
+    "lon": 51.498056,
+    "year": 1999,
+    "ID": 24
+  },
+  "25": {
+    "label": "BethnalGreen",
+    "lat": -0.0595,
+    "lon": 51.523,
+    "year": 1946,
+    "ID": 25
+  },
+  "26": {
+    "label": "Blackfriars",
+    "lat": -0.103,
+    "lon": 51.5116,
+    "year": 1870,
+    "ID": 26
+  },
+  "27": {
+    "label": "BlackhorseRoad",
+    "lat": -0.0416,
+    "lon": 51.5866,
+    "year": 1968,
+    "ID": 27
+  },
+  "28": {
+    "label": "Blackwall",
+    "lat": -0.007222,
+    "lon": 51.507917,
+    "year": 1994,
+    "ID": 28
+  },
+  "29": {
+    "label": "BondStreet",
+    "lat": -0.15,
+    "lon": 51.514,
+    "year": 1900,
+    "ID": 29
+  },
+  "30": {
+    "label": "Borough",
+    "lat": -0.093889,
+    "lon": 51.501111,
+    "year": 1890,
+    "ID": 30
+  },
+  "31": {
+    "label": "BostonManor",
+    "lat": -0.325,
+    "lon": 51.495833,
+    "year": 1883,
+    "ID": 31
+  },
+  "32": {
+    "label": "BoundsGreen",
+    "lat": -0.124167,
+    "lon": 51.606944,
+    "year": 1932,
+    "ID": 32
+  },
+  "33": {
+    "label": "BowChurch",
+    "lat": -0.020833,
+    "lon": 51.5275,
+    "year": 1987,
+    "ID": 33
+  },
+  "34": {
+    "label": "BowRoad",
+    "lat": -0.024722,
+    "lon": 51.527222,
+    "year": 1902,
+    "ID": 34
+  },
+  "35": {
+    "label": "BrentCross",
+    "lat": -0.213611,
+    "lon": 51.576667,
+    "year": 1923,
+    "ID": 35
+  },
+  "36": {
+    "label": "Brixton",
+    "lat": -0.1132,
+    "lon": 51.4629,
+    "year": 1971,
+    "ID": 36
+  },
+  "37": {
+    "label": "Bromley-by-Bow",
+    "lat": -0.011389,
+    "lon": 51.524722,
+    "year": 1902,
+    "ID": 37
+  },
+  "38": {
+    "label": "Brondesbury",
+    "lat": -0.202,
+    "lon": 51.5451,
+    "year": 1860,
+    "ID": 38
+  },
+  "39": {
+    "label": "BrondesburyPark",
+    "lat": -0.2103,
+    "lon": 51.5407,
+    "year": 1908,
+    "ID": 39
+  },
+  "40": {
+    "label": "BuckhurstHill",
+    "lat": 0.046944,
+    "lon": 51.626667,
+    "year": 1948,
+    "ID": 40
+  },
+  "41": {
+    "label": "BurntOak",
+    "lat": -0.263889,
+    "lon": 51.602778,
+    "year": 1924,
+    "ID": 41
+  },
+  "42": {
+    "label": "CaledonianRoad",
+    "lat": -0.118611,
+    "lon": 51.548333,
+    "year": 1906,
+    "ID": 42
+  },
+  "43": {
+    "label": "CaledonianRoadandBarnsbury",
+    "lat": -0.1145,
+    "lon": 51.5432,
+    "year": 1870,
+    "ID": 43
+  },
+  "44": {
+    "label": "CamdenRoad",
+    "lat": -0.1401,
+    "lon": 51.5444,
+    "year": 1870,
+    "ID": 44
+  },
+  "45": {
+    "label": "CamdenTown",
+    "lat": -0.1425,
+    "lon": 51.539167,
+    "year": 1907,
+    "ID": 45
+  },
+  "46": {
+    "label": "CanadaWater",
+    "lat": -0.05,
+    "lon": 51.498333,
+    "year": 1999,
+    "ID": 46
+  },
+  "47": {
+    "label": "CanaryWharf",
+    "lat": -0.020989,
+    "lon": 51.505164,
+    "year": 1999,
+    "ID": 47
+  },
+  "48": {
+    "label": "CanningTown",
+    "lat": 0.008311,
+    "lon": 51.514003,
+    "year": 1994,
+    "ID": 48
+  },
+  "49": {
+    "label": "CannonStreet",
+    "lat": -0.0912,
+    "lon": 51.5101,
+    "year": 1884,
+    "ID": 49
+  },
+  "50": {
+    "label": "Canonbury",
+    "lat": -0.0925,
+    "lon": 51.5482,
+    "year": 1858,
+    "ID": 50
+  },
+  "51": {
+    "label": "CanonsPark",
+    "lat": -0.294722,
+    "lon": 51.607778,
+    "year": 1932,
+    "ID": 51
+  },
+  "52": {
+    "label": "ChalfontandLatimer",
+    "lat": -0.561,
+    "lon": 51.6679,
+    "year": 1889,
+    "ID": 52
+  },
+  "53": {
+    "label": "ChalkFarm",
+    "lat": -0.153333,
+    "lon": 51.544167,
+    "year": 1907,
+    "ID": 53
+  },
+  "54": {
+    "label": "ChanceryLane",
+    "lat": -0.11158,
+    "lon": 51.51809,
+    "year": 1900,
+    "ID": 54
+  },
+  "55": {
+    "label": "CharingCross",
+    "lat": -0.1231,
+    "lon": 51.5075,
+    "year": 1906,
+    "ID": 55
+  },
+  "56": {
+    "label": "Chesham",
+    "lat": -0.611389,
+    "lon": 51.705278,
+    "year": 1889,
+    "ID": 56
+  },
+  "57": {
+    "label": "Chigwell",
+    "lat": 0.07421,
+    "lon": 51.61749,
+    "year": 1948,
+    "ID": 57
+  },
+  "58": {
+    "label": "ChiswickPark",
+    "lat": -0.267778,
+    "lon": 51.494722,
+    "year": 1879,
+    "ID": 58
+  },
+  "59": {
+    "label": "Chorleywood",
+    "lat": -0.518333,
+    "lon": 51.654167,
+    "year": 1889,
+    "ID": 59
+  },
+  "60": {
+    "label": "ClaphamCommon",
+    "lat": -0.138611,
+    "lon": 51.461667,
+    "year": 1900,
+    "ID": 60
+  },
+  "61": {
+    "label": "ClaphamJunction",
+    "lat": -0.1703,
+    "lon": 51.4644,
+    "year": 1863,
+    "ID": 61
+  },
+  "62": {
+    "label": "ClaphamNorth",
+    "lat": -0.13,
+    "lon": 51.465,
+    "year": 1900,
+    "ID": 62
+  },
+  "63": {
+    "label": "ClaphamSouth",
+    "lat": -0.1475,
+    "lon": 51.452778,
+    "year": 1926,
+    "ID": 63
+  },
+  "64": {
+    "label": "Cockfosters",
+    "lat": -0.148889,
+    "lon": 51.651667,
+    "year": 1933,
+    "ID": 64
+  },
+  "65": {
+    "label": "Colindale",
+    "lat": -0.25,
+    "lon": 51.595556,
+    "year": 1924,
+    "ID": 65
+  },
+  "66": {
+    "label": "ColliersWood",
+    "lat": -0.178333,
+    "lon": 51.418333,
+    "year": 1926,
+    "ID": 66
+  },
+  "67": {
+    "label": "CoventGarden",
+    "lat": -0.12425,
+    "lon": 51.513028,
+    "year": 1907,
+    "ID": 67
+  },
+  "68": {
+    "label": "CrossHarbour",
+    "lat": -0.014492,
+    "lon": 51.495797,
+    "year": 1987,
+    "ID": 68
+  },
+  "69": {
+    "label": "CrouchHill",
+    "lat": -0.1171,
+    "lon": 51.572,
+    "year": 1868,
+    "ID": 69
+  },
+  "70": {
+    "label": "Croxley",
+    "lat": -0.441389,
+    "lon": 51.6475,
+    "year": 1925,
+    "ID": 70
+  },
+  "71": {
+    "label": "CustomHouse",
+    "lat": 0.025894,
+    "lon": 51.509639,
+    "year": 1994,
+    "ID": 71
+  },
+  "72": {
+    "label": "CuttySark",
+    "lat": -0.010911,
+    "lon": 51.481703,
+    "year": 1999,
+    "ID": 72
+  },
+  "73": {
+    "label": "Cyprus",
+    "lat": 0.063889,
+    "lon": 51.508611,
+    "year": 1994,
+    "ID": 73
+  },
+  "74": {
+    "label": "DagenhamEast",
+    "lat": 0.165556,
+    "lon": 51.544444,
+    "year": 1902,
+    "ID": 74
+  },
+  "75": {
+    "label": "DagenhamHeathway",
+    "lat": 0.146944,
+    "lon": 51.541667,
+    "year": 1932,
+    "ID": 75
+  },
+  "76": {
+    "label": "DalstonKingsland",
+    "lat": -0.0763,
+    "lon": 51.5482,
+    "year": 1983,
+    "ID": 76
+  },
+  "77": {
+    "label": "Debden",
+    "lat": 0.083889,
+    "lon": 51.645278,
+    "year": 1949,
+    "ID": 77
+  },
+  "78": {
+    "label": "DeptfordBridge",
+    "lat": -0.022542,
+    "lon": 51.474408,
+    "year": 1999,
+    "ID": 78
+  },
+  "79": {
+    "label": "DevonsRoad",
+    "lat": -0.017361,
+    "lon": 51.522222,
+    "year": 1987,
+    "ID": 79
+  },
+  "80": {
+    "label": "DollisHill",
+    "lat": -0.238611,
+    "lon": 51.551944,
+    "year": 1909,
+    "ID": 80
+  },
+  "81": {
+    "label": "EalingBroadway",
+    "lat": -0.3017,
+    "lon": 51.5147,
+    "year": 1879,
+    "ID": 81
+  },
+  "82": {
+    "label": "EalingCommon",
+    "lat": -0.288056,
+    "lon": 51.510278,
+    "year": 1879,
+    "ID": 82
+  },
+  "83": {
+    "label": "Earl'sCourt",
+    "lat": -0.194722,
+    "lon": 51.491389,
+    "year": 1871,
+    "ID": 83
+  },
+  "84": {
+    "label": "EastActon",
+    "lat": -0.2475,
+    "lon": 51.516944,
+    "year": 1920,
+    "ID": 84
+  },
+  "85": {
+    "label": "EastFinchley",
+    "lat": -0.165,
+    "lon": 51.587222,
+    "year": 1939,
+    "ID": 85
+  },
+  "86": {
+    "label": "EastHam",
+    "lat": 0.051667,
+    "lon": 51.539444,
+    "year": 1902,
+    "ID": 86
+  },
+  "87": {
+    "label": "EastIndia",
+    "lat": -0.002178,
+    "lon": 51.509397,
+    "year": 1994,
+    "ID": 87
+  },
+  "88": {
+    "label": "EastPutney",
+    "lat": -0.2113,
+    "lon": 51.4587,
+    "year": 1889,
+    "ID": 88
+  },
+  "89": {
+    "label": "Eastcote",
+    "lat": -0.396944,
+    "lon": 51.576667,
+    "year": 1906,
+    "ID": 89
+  },
+  "90": {
+    "label": "Edgware",
+    "lat": -0.275,
+    "lon": 51.614,
+    "year": 1924,
+    "ID": 90
+  },
+  "91": {
+    "label": "EdgwareRoad",
+    "lat": -0.17,
+    "lon": 51.520159,
+    "year": 1863,
+    "ID": 91
+  },
+  "92": {
+    "label": "ElephantandCastle",
+    "lat": -0.0986,
+    "lon": 51.4938,
+    "year": 1890,
+    "ID": 92
+  },
+  "93": {
+    "label": "ElmPark",
+    "lat": 0.197778,
+    "lon": 51.549722,
+    "year": 1935,
+    "ID": 93
+  },
+  "94": {
+    "label": "ElversonRoad",
+    "lat": -0.016369,
+    "lon": 51.468664,
+    "year": 1999,
+    "ID": 94
+  },
+  "95": {
+    "label": "Embankment",
+    "lat": -0.1223,
+    "lon": 51.5072,
+    "year": 1870,
+    "ID": 95
+  },
+  "96": {
+    "label": "Epping",
+    "lat": 0.11385,
+    "lon": 51.693611,
+    "year": 1949,
+    "ID": 96
+  },
+  "97": {
+    "label": "Euston",
+    "lat": -0.1345,
+    "lon": 51.5287,
+    "year": 1907,
+    "ID": 97
+  },
+  "98": {
+    "label": "EustonSquare",
+    "lat": -0.1345,
+    "lon": 51.5287,
+    "year": 1863,
+    "ID": 98
+  },
+  "99": {
+    "label": "Fairlop",
+    "lat": 0.09054,
+    "lon": 51.59562,
+    "year": 1948,
+    "ID": 99
+  },
+  "100": {
+    "label": "Farringdon",
+    "lat": -0.1053,
+    "lon": 51.5206,
+    "year": 1863,
+    "ID": 100
+  },
+  "101": {
+    "label": "FinchleyCentral",
+    "lat": -0.193333,
+    "lon": 51.601111,
+    "year": 1940,
+    "ID": 101
+  },
+  "102": {
+    "label": "FinchleyRoad",
+    "lat": -0.180278,
+    "lon": 51.547222,
+    "year": 1879,
+    "ID": 102
+  },
+  "103": {
+    "label": "FinchleyRoad&Frognal",
+    "lat": -0.1837,
+    "lon": 51.5499,
+    "year": 1860,
+    "ID": 103
+  },
+  "104": {
+    "label": "FinsburyPark",
+    "lat": -0.10636,
+    "lon": 51.5647,
+    "year": 1906,
+    "ID": 104
+  },
+  "105": {
+    "label": "FulhamBroadway",
+    "lat": -0.194656,
+    "lon": 51.480619,
+    "year": 1880,
+    "ID": 105
+  },
+  "106": {
+    "label": "GallionsReach",
+    "lat": 0.071667,
+    "lon": 51.508889,
+    "year": 1994,
+    "ID": 106
+  },
+  "107": {
+    "label": "GantsHill",
+    "lat": 0.066111,
+    "lon": 51.576667,
+    "year": 1947,
+    "ID": 107
+  },
+  "108": {
+    "label": "GloucesterRoad",
+    "lat": -0.183056,
+    "lon": 51.494722,
+    "year": 1868,
+    "ID": 108
+  },
+  "109": {
+    "label": "GoldersGreen",
+    "lat": -0.194,
+    "lon": 51.572,
+    "year": 1907,
+    "ID": 109
+  },
+  "110": {
+    "label": "GoldhawkRoad",
+    "lat": -0.227,
+    "lon": 51.502,
+    "year": 1914,
+    "ID": 110
+  },
+  "111": {
+    "label": "GoodgeStreet",
+    "lat": -0.134444,
+    "lon": 51.520833,
+    "year": 1907,
+    "ID": 111
+  },
+  "112": {
+    "label": "GospelOak",
+    "lat": -0.1514,
+    "lon": 51.5552,
+    "year": 1860,
+    "ID": 112
+  },
+  "113": {
+    "label": "GrangeHill",
+    "lat": 0.092222,
+    "lon": 51.613333,
+    "year": 1948,
+    "ID": 113
+  },
+  "114": {
+    "label": "GreatPortlandStreet",
+    "lat": -0.143889,
+    "lon": 51.523889,
+    "year": 1863,
+    "ID": 114
+  },
+  "115": {
+    "label": "GreenPark",
+    "lat": -0.142865,
+    "lon": 51.506793,
+    "year": 1906,
+    "ID": 115
+  },
+  "116": {
+    "label": "Greenford",
+    "lat": -0.3463,
+    "lon": 51.5426,
+    "year": 1947,
+    "ID": 116
+  },
+  "117": {
+    "label": "Greenwich",
+    "lat": -0.0134,
+    "lon": 51.4782,
+    "year": 1999,
+    "ID": 117
+  },
+  "118": {
+    "label": "Gunnersbury",
+    "lat": -0.275,
+    "lon": 51.4918,
+    "year": 1877,
+    "ID": 118
+  },
+  "119": {
+    "label": "HackneyCentral",
+    "lat": -0.0559,
+    "lon": 51.547,
+    "year": 1850,
+    "ID": 119
+  },
+  "120": {
+    "label": "HackneyWick",
+    "lat": -0.0249,
+    "lon": 51.5432,
+    "year": 1980,
+    "ID": 120
+  },
+  "121": {
+    "label": "Hainault",
+    "lat": 0.093333,
+    "lon": 51.603333,
+    "year": 1948,
+    "ID": 121
+  },
+  "122": {
+    "label": "Hammersmith",
+    "lat": -0.224444,
+    "lon": 51.492778,
+    "year": 1864,
+    "ID": 122
+  },
+  "123": {
+    "label": "Hampstead",
+    "lat": -0.178333,
+    "lon": 51.556944,
+    "year": 1907,
+    "ID": 123
+  },
+  "124": {
+    "label": "HampsteadHeath",
+    "lat": -0.1654,
+    "lon": 51.5553,
+    "year": 1860,
+    "ID": 124
+  },
+  "125": {
+    "label": "HangerLane",
+    "lat": -0.293056,
+    "lon": 51.530278,
+    "year": 1947,
+    "ID": 125
+  },
+  "126": {
+    "label": "Harlesden",
+    "lat": -0.2581,
+    "lon": 51.5363,
+    "year": 1917,
+    "ID": 126
+  },
+  "127": {
+    "label": "HarringayGreenLanes",
+    "lat": -0.0977,
+    "lon": 51.5774,
+    "year": 1880,
+    "ID": 127
+  },
+  "128": {
+    "label": "HarrowOnTheHill",
+    "lat": -0.337,
+    "lon": 51.5794,
+    "year": 1880,
+    "ID": 128
+  },
+  "129": {
+    "label": "HarrowandWealdstone",
+    "lat": -0.3347,
+    "lon": 51.5921,
+    "year": 1917,
+    "ID": 129
+  },
+  "130": {
+    "label": "HattonCross",
+    "lat": -0.423333,
+    "lon": 51.466944,
+    "year": 1975,
+    "ID": 130
+  },
+  "131": {
+    "label": "HeathrowTerminal123",
+    "lat": -0.4525,
+    "lon": 51.471111,
+    "year": 1977,
+    "ID": 131
+  },
+  "132": {
+    "label": "HeathrowTerminal4",
+    "lat": -0.446944,
+    "lon": 51.459444,
+    "year": 1986,
+    "ID": 132
+  },
+  "133": {
+    "label": "HeathrowTerminal5",
+    "lat": -0.475,
+    "lon": 51.472222,
+    "year": 2008,
+    "ID": 133
+  },
+  "134": {
+    "label": "HendonCentral",
+    "lat": -0.226111,
+    "lon": 51.583056,
+    "year": 1923,
+    "ID": 134
+  },
+  "135": {
+    "label": "HeronQuays",
+    "lat": -0.021569,
+    "lon": 51.502922,
+    "year": 1987,
+    "ID": 135
+  },
+  "136": {
+    "label": "HighBarnet",
+    "lat": -0.194167,
+    "lon": 51.650556,
+    "year": 1940,
+    "ID": 136
+  },
+  "137": {
+    "label": "HighStreetKensington",
+    "lat": -0.1925,
+    "lon": 51.500833,
+    "year": 1868,
+    "ID": 137
+  },
+  "138": {
+    "label": "HighburyandIslington",
+    "lat": -0.105,
+    "lon": 51.5458,
+    "year": 1968,
+    "ID": 138
+  },
+  "139": {
+    "label": "Highgate",
+    "lat": -0.145833,
+    "lon": 51.577778,
+    "year": 1941,
+    "ID": 139
+  },
+  "140": {
+    "label": "Hillingdon",
+    "lat": -0.45,
+    "lon": 51.553889,
+    "year": 1923,
+    "ID": 140
+  },
+  "141": {
+    "label": "Holborn",
+    "lat": -0.120111,
+    "lon": 51.517431,
+    "year": 1906,
+    "ID": 141
+  },
+  "142": {
+    "label": "HollandPark",
+    "lat": -0.2056,
+    "lon": 51.5072,
+    "year": 1900,
+    "ID": 142
+  },
+  "143": {
+    "label": "HollowayRoad",
+    "lat": -0.111944,
+    "lon": 51.553056,
+    "year": 1906,
+    "ID": 143
+  },
+  "144": {
+    "label": "Homerton",
+    "lat": -0.0431,
+    "lon": 51.547,
+    "year": 1985,
+    "ID": 144
+  },
+  "145": {
+    "label": "Hornchurch",
+    "lat": 0.218889,
+    "lon": 51.553889,
+    "year": 1902,
+    "ID": 145
+  },
+  "146": {
+    "label": "HounslowCentral",
+    "lat": -0.366389,
+    "lon": 51.471389,
+    "year": 1886,
+    "ID": 146
+  },
+  "147": {
+    "label": "HounslowEast",
+    "lat": -0.356389,
+    "lon": 51.473056,
+    "year": 1909,
+    "ID": 147
+  },
+  "148": {
+    "label": "HounslowWest",
+    "lat": -0.385556,
+    "lon": 51.473611,
+    "year": 1884,
+    "ID": 148
+  },
+  "149": {
+    "label": "HydeParkCorner",
+    "lat": -0.152778,
+    "lon": 51.502778,
+    "year": 1906,
+    "ID": 149
+  },
+  "150": {
+    "label": "Ickenham",
+    "lat": -0.441944,
+    "lon": 51.561944,
+    "year": 1905,
+    "ID": 150
+  },
+  "151": {
+    "label": "ImperialWharf",
+    "lat": -0.18281,
+    "lon": 51.47517,
+    "year": 2009,
+    "ID": 151
+  },
+  "152": {
+    "label": "IslandGardens",
+    "lat": -0.0105,
+    "lon": 51.488028,
+    "year": 1987,
+    "ID": 152
+  },
+  "153": {
+    "label": "Kennington",
+    "lat": -0.105556,
+    "lon": 51.488611,
+    "year": 1890,
+    "ID": 153
+  },
+  "154": {
+    "label": "KensalGreen",
+    "lat": -0.2243,
+    "lon": 51.5306,
+    "year": 1916,
+    "ID": 154
+  },
+  "155": {
+    "label": "KensalRise",
+    "lat": -0.2204,
+    "lon": 51.5345,
+    "year": 1861,
+    "ID": 155
+  },
+  "156": {
+    "label": "KensingtonOlympia",
+    "lat": -0.211,
+    "lon": 51.4985,
+    "year": 1864,
+    "ID": 156
+  },
+  "157": {
+    "label": "KentishTown",
+    "lat": -0.1396,
+    "lon": 51.5505,
+    "year": 1907,
+    "ID": 157
+  },
+  "158": {
+    "label": "KentishTownWest",
+    "lat": -0.1468,
+    "lon": 51.5468,
+    "year": 1867,
+    "ID": 158
+  },
+  "159": {
+    "label": "Kenton",
+    "lat": -0.3167,
+    "lon": 51.5818,
+    "year": 1917,
+    "ID": 159
+  },
+  "160": {
+    "label": "KewGardens",
+    "lat": -0.2849,
+    "lon": 51.4772,
+    "year": 1877,
+    "ID": 160
+  },
+  "161": {
+    "label": "Kilburn",
+    "lat": -0.204722,
+    "lon": 51.547222,
+    "year": 1879,
+    "ID": 161
+  },
+  "162": {
+    "label": "KilburnHighRoad",
+    "lat": -0.1925,
+    "lon": 51.5373,
+    "year": 1852,
+    "ID": 162
+  },
+  "163": {
+    "label": "KilburnPark",
+    "lat": -0.194063,
+    "lon": 51.535124,
+    "year": 1915,
+    "ID": 163
+  },
+  "164": {
+    "label": "King'sCrossSt.Pancras",
+    "lat": -0.1233,
+    "lon": 51.5324,
+    "year": 1863,
+    "ID": 164
+  },
+  "165": {
+    "label": "KingGeorgeV",
+    "lat": 0.062778,
+    "lon": 51.501972,
+    "year": 2005,
+    "ID": 165
+  },
+  "166": {
+    "label": "Kingsbury",
+    "lat": -0.278611,
+    "lon": 51.584722,
+    "year": 1932,
+    "ID": 166
+  },
+  "167": {
+    "label": "Knightsbridge",
+    "lat": -0.160833,
+    "lon": 51.501667,
+    "year": 1906,
+    "ID": 167
+  },
+  "168": {
+    "label": "LadbrokeGrove",
+    "lat": -0.210556,
+    "lon": 51.517222,
+    "year": 1864,
+    "ID": 168
+  },
+  "169": {
+    "label": "LambethNorth",
+    "lat": -0.1118,
+    "lon": 51.499,
+    "year": 1906,
+    "ID": 169
+  },
+  "170": {
+    "label": "LancasterGate",
+    "lat": -0.175472,
+    "lon": 51.51175,
+    "year": 1900,
+    "ID": 170
+  },
+  "171": {
+    "label": "LangdonPark",
+    "lat": -0.014167,
+    "lon": 51.515556,
+    "year": 2007,
+    "ID": 171
+  },
+  "172": {
+    "label": "LatimerRoad",
+    "lat": -0.217222,
+    "lon": 51.513889,
+    "year": 1868,
+    "ID": 172
+  },
+  "173": {
+    "label": "LeicesterSquare",
+    "lat": -0.128056,
+    "lon": 51.511389,
+    "year": 1906,
+    "ID": 173
+  },
+  "174": {
+    "label": "Lewisham",
+    "lat": -0.0141,
+    "lon": 51.4658,
+    "year": 1999,
+    "ID": 174
+  },
+  "175": {
+    "label": "Leyton",
+    "lat": -0.0072,
+    "lon": 51.5693,
+    "year": 1947,
+    "ID": 175
+  },
+  "176": {
+    "label": "LeytonMidlandRoad",
+    "lat": -0.0072,
+    "lon": 51.5693,
+    "year": 1894,
+    "ID": 176
+  },
+  "177": {
+    "label": "LeytonStone",
+    "lat": 0.008333,
+    "lon": 51.568333,
+    "year": 1947,
+    "ID": 177
+  },
+  "178": {
+    "label": "LeytonstoneHighRoad",
+    "lat": 0.0073,
+    "lon": 51.5634,
+    "year": 1894,
+    "ID": 178
+  },
+  "179": {
+    "label": "Limehouse",
+    "lat": -0.0402,
+    "lon": 51.5126,
+    "year": 1987,
+    "ID": 179
+  },
+  "180": {
+    "label": "LiverpoolStreet",
+    "lat": -0.0819,
+    "lon": 51.5185,
+    "year": 1875,
+    "ID": 180
+  },
+  "181": {
+    "label": "LondonBridge",
+    "lat": -0.0851,
+    "lon": 51.5053,
+    "year": 1900,
+    "ID": 181
+  },
+  "182": {
+    "label": "LondonCityAirport",
+    "lat": 0.048889,
+    "lon": 51.503611,
+    "year": 2005,
+    "ID": 182
+  },
+  "183": {
+    "label": "Loughton",
+    "lat": 0.055278,
+    "lon": 51.641389,
+    "year": 1948,
+    "ID": 183
+  },
+  "184": {
+    "label": "MaidaVale",
+    "lat": -0.185565,
+    "lon": 51.529785,
+    "year": 1915,
+    "ID": 184
+  },
+  "185": {
+    "label": "ManorHouse",
+    "lat": -0.096111,
+    "lon": 51.570833,
+    "year": 1932,
+    "ID": 185
+  },
+  "186": {
+    "label": "MansionHouse",
+    "lat": -0.094167,
+    "lon": 51.512222,
+    "year": 1871,
+    "ID": 186
+  },
+  "187": {
+    "label": "MarbleArch",
+    "lat": -0.158333,
+    "lon": 51.513611,
+    "year": 1900,
+    "ID": 187
+  },
+  "188": {
+    "label": "Marylebone",
+    "lat": -0.163,
+    "lon": 51.5231,
+    "year": 1907,
+    "ID": 188
+  },
+  "189": {
+    "label": "MileEnd",
+    "lat": -0.033611,
+    "lon": 51.525278,
+    "year": 1902,
+    "ID": 189
+  },
+  "190": {
+    "label": "MillHillEast",
+    "lat": -0.210278,
+    "lon": 51.608333,
+    "year": 1941,
+    "ID": 190
+  },
+  "191": {
+    "label": "Monument",
+    "lat": -0.088611,
+    "lon": 51.513333,
+    "year": 1884,
+    "ID": 191
+  },
+  "192": {
+    "label": "MoorPark",
+    "lat": -0.431944,
+    "lon": 51.63,
+    "year": 1910,
+    "ID": 192
+  },
+  "193": {
+    "label": "Moorgate",
+    "lat": -0.0896,
+    "lon": 51.5187,
+    "year": 1865,
+    "ID": 193
+  },
+  "194": {
+    "label": "Morden",
+    "lat": -0.195,
+    "lon": 51.402222,
+    "year": 1926,
+    "ID": 194
+  },
+  "195": {
+    "label": "MorningtonCrescent",
+    "lat": -0.138611,
+    "lon": 51.534444,
+    "year": 1907,
+    "ID": 195
+  },
+  "196": {
+    "label": "Mudchute",
+    "lat": -0.014708,
+    "lon": 51.490897,
+    "year": 1987,
+    "ID": 196
+  },
+  "197": {
+    "label": "Neasden",
+    "lat": -0.250278,
+    "lon": 51.554167,
+    "year": 1880,
+    "ID": 197
+  },
+  "198": {
+    "label": "NewburyPark",
+    "lat": 0.08959,
+    "lon": 51.57495,
+    "year": 1947,
+    "ID": 198
+  },
+  "199": {
+    "label": "NorthActon",
+    "lat": -0.259722,
+    "lon": 51.523611,
+    "year": 1923,
+    "ID": 199
+  },
+  "200": {
+    "label": "NorthEaling",
+    "lat": -0.288611,
+    "lon": 51.5175,
+    "year": 1903,
+    "ID": 200
+  },
+  "201": {
+    "label": "NorthGreenwich",
+    "lat": 0.003611,
+    "lon": 51.500556,
+    "year": 1999,
+    "ID": 201
+  },
+  "202": {
+    "label": "NorthHarrow",
+    "lat": -0.3625,
+    "lon": 51.585,
+    "year": 1915,
+    "ID": 202
+  },
+  "203": {
+    "label": "NorthWembley",
+    "lat": -0.304,
+    "lon": 51.5627,
+    "year": 1917,
+    "ID": 203
+  },
+  "204": {
+    "label": "Northfields",
+    "lat": -0.314167,
+    "lon": 51.499444,
+    "year": 1908,
+    "ID": 204
+  },
+  "205": {
+    "label": "Northolt",
+    "lat": -0.368835,
+    "lon": 51.547996,
+    "year": 1948,
+    "ID": 205
+  },
+  "206": {
+    "label": "NorthwickPark",
+    "lat": -0.318611,
+    "lon": 51.578611,
+    "year": 1923,
+    "ID": 206
+  },
+  "207": {
+    "label": "Northwood",
+    "lat": -0.42437,
+    "lon": 51.61085,
+    "year": 1887,
+    "ID": 207
+  },
+  "208": {
+    "label": "NorthwoodHills",
+    "lat": -0.409167,
+    "lon": 51.600556,
+    "year": 1933,
+    "ID": 208
+  },
+  "209": {
+    "label": "NottingHillGate",
+    "lat": -0.197,
+    "lon": 51.509,
+    "year": 1868,
+    "ID": 209
+  },
+  "210": {
+    "label": "Oakwood",
+    "lat": -0.131667,
+    "lon": 51.6475,
+    "year": 1933,
+    "ID": 210
+  },
+  "211": {
+    "label": "OldStreet",
+    "lat": -0.085,
+    "lon": 51.5258,
+    "year": 1901,
+    "ID": 211
+  },
+  "212": {
+    "label": "Osterley",
+    "lat": -0.352222,
+    "lon": 51.481389,
+    "year": 1883,
+    "ID": 212
+  },
+  "213": {
+    "label": "Oval",
+    "lat": -0.1125,
+    "lon": 51.481944,
+    "year": 1890,
+    "ID": 213
+  },
+  "214": {
+    "label": "OxfordCircus",
+    "lat": -0.1416,
+    "lon": 51.51519,
+    "year": 1900,
+    "ID": 214
+  },
+  "215": {
+    "label": "Paddington",
+    "lat": -0.1769,
+    "lon": 51.5171,
+    "year": 1863,
+    "ID": 215
+  },
+  "216": {
+    "label": "ParkRoyal",
+    "lat": -0.284167,
+    "lon": 51.526944,
+    "year": 1903,
+    "ID": 216
+  },
+  "217": {
+    "label": "ParsonsGreen",
+    "lat": -0.201111,
+    "lon": 51.475278,
+    "year": 1880,
+    "ID": 217
+  },
+  "218": {
+    "label": "Perivale",
+    "lat": -0.323333,
+    "lon": 51.536667,
+    "year": 1947,
+    "ID": 218
+  },
+  "219": {
+    "label": "PiccadillyCircus",
+    "lat": -0.134,
+    "lon": 51.5101,
+    "year": 1906,
+    "ID": 219
+  },
+  "220": {
+    "label": "Pimlico",
+    "lat": -0.133333,
+    "lon": 51.489444,
+    "year": 1972,
+    "ID": 220
+  },
+  "221": {
+    "label": "Pinner",
+    "lat": -0.380556,
+    "lon": 51.592778,
+    "year": 1885,
+    "ID": 221
+  },
+  "222": {
+    "label": "Plaistow",
+    "lat": 0.017222,
+    "lon": 51.531389,
+    "year": 1902,
+    "ID": 222
+  },
+  "223": {
+    "label": "PontoonDock",
+    "lat": 0.031944,
+    "lon": 51.502222,
+    "year": 2005,
+    "ID": 223
+  },
+  "224": {
+    "label": "Poplar",
+    "lat": -0.017219,
+    "lon": 51.507714,
+    "year": 1987,
+    "ID": 224
+  },
+  "225": {
+    "label": "PrestonRoad",
+    "lat": -0.295278,
+    "lon": 51.572222,
+    "year": 1908,
+    "ID": 225
+  },
+  "226": {
+    "label": "PrinceRegent",
+    "lat": 0.033433,
+    "lon": 51.509447,
+    "year": 1994,
+    "ID": 226
+  },
+  "227": {
+    "label": "PuddingMillLane",
+    "lat": -0.013889,
+    "lon": 51.534167,
+    "year": 1996,
+    "ID": 227
+  },
+  "228": {
+    "label": "PutneyBridge",
+    "lat": -0.2162,
+    "lon": 51.4611,
+    "year": 1880,
+    "ID": 228
+  },
+  "229": {
+    "label": "Queen'sPark",
+    "lat": -0.2053,
+    "lon": 51.5341,
+    "year": 1915,
+    "ID": 229
+  },
+  "230": {
+    "label": "Queensbury",
+    "lat": -0.28621,
+    "lon": 51.59417,
+    "year": 1934,
+    "ID": 230
+  },
+  "231": {
+    "label": "Queensway",
+    "lat": -0.187222,
+    "lon": 51.510444,
+    "year": 1900,
+    "ID": 231
+  },
+  "232": {
+    "label": "RavenscourtPark",
+    "lat": -0.235833,
+    "lon": 51.494167,
+    "year": 1877,
+    "ID": 232
+  },
+  "233": {
+    "label": "RaynersLane",
+    "lat": -0.371389,
+    "lon": 51.575278,
+    "year": 1906,
+    "ID": 233
+  },
+  "234": {
+    "label": "Redbridge",
+    "lat": 0.04489,
+    "lon": 51.57574,
+    "year": 1947,
+    "ID": 234
+  },
+  "235": {
+    "label": "Regent'sPark",
+    "lat": -0.14643,
+    "lon": 51.5235,
+    "year": 1906,
+    "ID": 235
+  },
+  "236": {
+    "label": "Richmond",
+    "lat": -0.3014,
+    "lon": 51.463,
+    "year": 1877,
+    "ID": 236
+  },
+  "237": {
+    "label": "Rickmansworth",
+    "lat": -0.473333,
+    "lon": 51.640278,
+    "year": 1887,
+    "ID": 237
+  },
+  "238": {
+    "label": "RodingValley",
+    "lat": 0.043889,
+    "lon": 51.616944,
+    "year": 1948,
+    "ID": 238
+  },
+  "239": {
+    "label": "RoyalAlbert",
+    "lat": 0.046389,
+    "lon": 51.508611,
+    "year": 1994,
+    "ID": 239
+  },
+  "240": {
+    "label": "RoyalOak",
+    "lat": -0.188056,
+    "lon": 51.519167,
+    "year": 1871,
+    "ID": 240
+  },
+  "241": {
+    "label": "RoyalVictoria",
+    "lat": 0.018011,
+    "lon": 51.509178,
+    "year": 1994,
+    "ID": 241
+  },
+  "242": {
+    "label": "Ruislip",
+    "lat": -0.421111,
+    "lon": 51.571389,
+    "year": 1904,
+    "ID": 242
+  },
+  "243": {
+    "label": "RuislipGardens",
+    "lat": -0.410234,
+    "lon": 51.560254,
+    "year": 1948,
+    "ID": 243
+  },
+  "244": {
+    "label": "RuislipManor",
+    "lat": -0.4125,
+    "lon": 51.573333,
+    "year": 1912,
+    "ID": 244
+  },
+  "245": {
+    "label": "RussellSquare",
+    "lat": -0.124444,
+    "lon": 51.523056,
+    "year": 1906,
+    "ID": 245
+  },
+  "246": {
+    "label": "SevenSisters",
+    "lat": -0.0756,
+    "lon": 51.5839,
+    "year": 1968,
+    "ID": 246
+  },
+  "247": {
+    "label": "Shadwell",
+    "lat": -0.056214,
+    "lon": 51.511711,
+    "year": 1987,
+    "ID": 247
+  },
+  "248": {
+    "label": "Shepherd'sBush",
+    "lat": -0.2207,
+    "lon": 51.5042,
+    "year": 1900,
+    "ID": 248
+  },
+  "249": {
+    "label": "Shepherd'sBushCentral",
+    "lat": -0.218806,
+    "lon": 51.504472,
+    "year": 1900,
+    "ID": 249
+  },
+  "250": {
+    "label": "Shepherd'sBushMarket",
+    "lat": -0.226389,
+    "lon": 51.505833,
+    "year": 1864,
+    "ID": 250
+  },
+  "251": {
+    "label": "SloaneSquare",
+    "lat": -0.156667,
+    "lon": 51.4925,
+    "year": 1868,
+    "ID": 251
+  },
+  "252": {
+    "label": "Snaresbrook",
+    "lat": 0.021667,
+    "lon": 51.580833,
+    "year": 1947,
+    "ID": 252
+  },
+  "253": {
+    "label": "SouthActon",
+    "lat": -0.2707,
+    "lon": 51.4994,
+    "year": 1880,
+    "ID": 253
+  },
+  "254": {
+    "label": "SouthEaling",
+    "lat": -0.307222,
+    "lon": 51.501111,
+    "year": 1883,
+    "ID": 254
+  },
+  "255": {
+    "label": "SouthHampstead",
+    "lat": -0.1788,
+    "lon": 51.5414,
+    "year": 1879,
+    "ID": 255
+  },
+  "256": {
+    "label": "SouthHarrow",
+    "lat": -0.352222,
+    "lon": 51.564722,
+    "year": 1903,
+    "ID": 256
+  },
+  "257": {
+    "label": "SouthKensington",
+    "lat": -0.173894,
+    "lon": 51.494136,
+    "year": 1868,
+    "ID": 257
+  },
+  "258": {
+    "label": "SouthKenton",
+    "lat": -0.3086,
+    "lon": 51.5703,
+    "year": 1933,
+    "ID": 258
+  },
+  "259": {
+    "label": "SouthQuay",
+    "lat": -0.019061,
+    "lon": 51.500617,
+    "year": 1987,
+    "ID": 259
+  },
+  "260": {
+    "label": "SouthRuislip",
+    "lat": -0.3988,
+    "lon": 51.5569,
+    "year": 1948,
+    "ID": 260
+  },
+  "261": {
+    "label": "SouthTottenham",
+    "lat": -0.072,
+    "lon": 51.5802,
+    "year": 1871,
+    "ID": 261
+  },
+  "262": {
+    "label": "SouthWimbledon",
+    "lat": -0.191944,
+    "lon": 51.415556,
+    "year": 1926,
+    "ID": 262
+  },
+  "263": {
+    "label": "SouthWoodford",
+    "lat": 0.0275,
+    "lon": 51.591667,
+    "year": 1947,
+    "ID": 263
+  },
+  "264": {
+    "label": "Southfields",
+    "lat": -0.20704,
+    "lon": 51.44497,
+    "year": 1889,
+    "ID": 264
+  },
+  "265": {
+    "label": "Southgate",
+    "lat": -0.128056,
+    "lon": 51.6325,
+    "year": 1933,
+    "ID": 265
+  },
+  "266": {
+    "label": "Southwark",
+    "lat": -0.105,
+    "lon": 51.503889,
+    "year": 1999,
+    "ID": 266
+  },
+  "267": {
+    "label": "St.James'sPark",
+    "lat": -0.134444,
+    "lon": 51.499444,
+    "year": 1868,
+    "ID": 267
+  },
+  "268": {
+    "label": "St.John'sWood",
+    "lat": -0.174167,
+    "lon": 51.534722,
+    "year": 1939,
+    "ID": 268
+  },
+  "269": {
+    "label": "St.Paul's",
+    "lat": -0.09745,
+    "lon": 51.51483,
+    "year": 1900,
+    "ID": 269
+  },
+  "270": {
+    "label": "StamfordBrook",
+    "lat": -0.245833,
+    "lon": 51.495,
+    "year": 1912,
+    "ID": 270
+  },
+  "271": {
+    "label": "Stanmore",
+    "lat": -0.302778,
+    "lon": 51.619444,
+    "year": 1932,
+    "ID": 271
+  },
+  "272": {
+    "label": "StepneyGreen",
+    "lat": -0.046389,
+    "lon": 51.521944,
+    "year": 1902,
+    "ID": 272
+  },
+  "273": {
+    "label": "Stockwell",
+    "lat": -0.122222,
+    "lon": 51.4725,
+    "year": 1890,
+    "ID": 273
+  },
+  "274": {
+    "label": "StonebridgePark",
+    "lat": -0.2754,
+    "lon": 51.544,
+    "year": 1917,
+    "ID": 274
+  },
+  "275": {
+    "label": "Stratford",
+    "lat": -0.0037,
+    "lon": 51.5417,
+    "year": 1946,
+    "ID": 275
+  },
+  "276": {
+    "label": "SudburyHill",
+    "lat": -0.336389,
+    "lon": 51.556944,
+    "year": 1903,
+    "ID": 276
+  },
+  "277": {
+    "label": "SudburyTown",
+    "lat": -0.315556,
+    "lon": 51.550833,
+    "year": 1903,
+    "ID": 277
+  },
+  "278": {
+    "label": "SwissCottage",
+    "lat": -0.174722,
+    "lon": 51.543056,
+    "year": 1939,
+    "ID": 278
+  },
+  "279": {
+    "label": "Temple",
+    "lat": -0.114444,
+    "lon": 51.511111,
+    "year": 1870,
+    "ID": 279
+  },
+  "280": {
+    "label": "TheydonBois",
+    "lat": 0.103333,
+    "lon": 51.671667,
+    "year": 1949,
+    "ID": 280
+  },
+  "281": {
+    "label": "TootingBec",
+    "lat": -0.159722,
+    "lon": 51.435833,
+    "year": 1926,
+    "ID": 281
+  },
+  "282": {
+    "label": "TootingBroadway",
+    "lat": -0.168333,
+    "lon": 51.427778,
+    "year": 1926,
+    "ID": 282
+  },
+  "283": {
+    "label": "TottenhamCourtRoad",
+    "lat": -0.1309,
+    "lon": 51.5162,
+    "year": 1900,
+    "ID": 283
+  },
+  "284": {
+    "label": "TottenhamHale",
+    "lat": -0.0611,
+    "lon": 51.5902,
+    "year": 1968,
+    "ID": 284
+  },
+  "285": {
+    "label": "TotteridgeandWhetstone",
+    "lat": -0.179167,
+    "lon": 51.630556,
+    "year": 1940,
+    "ID": 285
+  },
+  "286": {
+    "label": "TowerGateway",
+    "lat": -0.074772,
+    "lon": 51.510611,
+    "year": 1987,
+    "ID": 286
+  },
+  "287": {
+    "label": "TowerHill",
+    "lat": -0.076667,
+    "lon": 51.51,
+    "year": 1882,
+    "ID": 287
+  },
+  "288": {
+    "label": "TufnellPark",
+    "lat": -0.138333,
+    "lon": 51.556944,
+    "year": 1907,
+    "ID": 288
+  },
+  "289": {
+    "label": "TurnhamGreen",
+    "lat": -0.255,
+    "lon": 51.495278,
+    "year": 1877,
+    "ID": 289
+  },
+  "290": {
+    "label": "TurnpikeLane",
+    "lat": -0.103333,
+    "lon": 51.590556,
+    "year": 1932,
+    "ID": 290
+  },
+  "291": {
+    "label": "Upminster",
+    "lat": 0.2509,
+    "lon": 51.5588,
+    "year": 1902,
+    "ID": 291
+  },
+  "292": {
+    "label": "UpminsterBridge",
+    "lat": 0.234167,
+    "lon": 51.558056,
+    "year": 1934,
+    "ID": 292
+  },
+  "293": {
+    "label": "Upney",
+    "lat": 0.101389,
+    "lon": 51.538611,
+    "year": 1932,
+    "ID": 293
+  },
+  "294": {
+    "label": "UpperHolloway",
+    "lat": -0.1298,
+    "lon": 51.5638,
+    "year": 1868,
+    "ID": 294
+  },
+  "295": {
+    "label": "UptonPark",
+    "lat": 0.034444,
+    "lon": 51.535278,
+    "year": 1902,
+    "ID": 295
+  },
+  "296": {
+    "label": "Uxbridge",
+    "lat": -0.4783,
+    "lon": 51.5459,
+    "year": 1904,
+    "ID": 296
+  },
+  "297": {
+    "label": "Vauxhall",
+    "lat": -0.1229,
+    "lon": 51.4859,
+    "year": 1971,
+    "ID": 297
+  },
+  "298": {
+    "label": "Victoria",
+    "lat": -0.1448,
+    "lon": 51.4966,
+    "year": 1868,
+    "ID": 298
+  },
+  "299": {
+    "label": "WalthamstowCentral",
+    "lat": -0.0192,
+    "lon": 51.5831,
+    "year": 1968,
+    "ID": 299
+  },
+  "300": {
+    "label": "WalthamstowQueen'sRoad",
+    "lat": -0.024,
+    "lon": 51.5817,
+    "year": 1894,
+    "ID": 300
+  },
+  "301": {
+    "label": "Wanstead",
+    "lat": 0.028889,
+    "lon": 51.575556,
+    "year": 1947,
+    "ID": 301
+  },
+  "302": {
+    "label": "WansteadPark",
+    "lat": 0.0264,
+    "lon": 51.5518,
+    "year": 1894,
+    "ID": 302
+  },
+  "303": {
+    "label": "WarrenStreet",
+    "lat": -0.138333,
+    "lon": 51.524722,
+    "year": 1907,
+    "ID": 303
+  },
+  "304": {
+    "label": "WarwickAvenue",
+    "lat": -0.183677,
+    "lon": 51.52327,
+    "year": 1915,
+    "ID": 304
+  },
+  "305": {
+    "label": "Waterloo",
+    "lat": -0.1132,
+    "lon": 51.5031,
+    "year": 1898,
+    "ID": 305
+  },
+  "306": {
+    "label": "Watford",
+    "lat": -0.4175,
+    "lon": 51.6575,
+    "year": 1925,
+    "ID": 306
+  },
+  "307": {
+    "label": "WembleyCentral",
+    "lat": -0.2964,
+    "lon": 51.5519,
+    "year": 1917,
+    "ID": 307
+  },
+  "308": {
+    "label": "WembleyPark",
+    "lat": -0.279444,
+    "lon": 51.563611,
+    "year": 1894,
+    "ID": 308
+  },
+  "309": {
+    "label": "WestActon",
+    "lat": -0.280833,
+    "lon": 51.518056,
+    "year": 1923,
+    "ID": 309
+  },
+  "310": {
+    "label": "WestBrompton",
+    "lat": -0.1957,
+    "lon": 51.4866,
+    "year": 1869,
+    "ID": 310
+  },
+  "311": {
+    "label": "WestFinchley",
+    "lat": -0.188333,
+    "lon": 51.609444,
+    "year": 1940,
+    "ID": 311
+  },
+  "312": {
+    "label": "WestHam",
+    "lat": 0.0066,
+    "lon": 51.5284,
+    "year": 1902,
+    "ID": 312
+  },
+  "313": {
+    "label": "WestHampstead",
+    "lat": -0.1913,
+    "lon": 51.5473,
+    "year": 1879,
+    "ID": 313
+  },
+  "314": {
+    "label": "WestHarrow",
+    "lat": -0.353333,
+    "lon": 51.579722,
+    "year": 1913,
+    "ID": 314
+  },
+  "315": {
+    "label": "WestIndiaQuay",
+    "lat": -0.020494,
+    "lon": 51.506917,
+    "year": 1987,
+    "ID": 315
+  },
+  "316": {
+    "label": "WestKensington",
+    "lat": -0.206389,
+    "lon": 51.490833,
+    "year": 1874,
+    "ID": 316
+  },
+  "317": {
+    "label": "WestRuislip",
+    "lat": -0.4376,
+    "lon": 51.5696,
+    "year": 1948,
+    "ID": 317
+  },
+  "318": {
+    "label": "WestSilvertown",
+    "lat": 0.0225,
+    "lon": 51.502778,
+    "year": 2005,
+    "ID": 318
+  },
+  "319": {
+    "label": "WestbournePark",
+    "lat": -0.201111,
+    "lon": 51.521111,
+    "year": 1866,
+    "ID": 319
+  },
+  "320": {
+    "label": "Westferry",
+    "lat": -0.026697,
+    "lon": 51.509372,
+    "year": 1987,
+    "ID": 320
+  },
+  "321": {
+    "label": "Westminster",
+    "lat": -0.125,
+    "lon": 51.501111,
+    "year": 1868,
+    "ID": 321
+  },
+  "322": {
+    "label": "WhiteCity",
+    "lat": -0.224583,
+    "lon": 51.512083,
+    "year": 1947,
+    "ID": 322
+  },
+  "323": {
+    "label": "Whitechapel",
+    "lat": -0.061111,
+    "lon": 51.519444,
+    "year": 1884,
+    "ID": 323
+  },
+  "324": {
+    "label": "WillesdenGreen",
+    "lat": -0.221667,
+    "lon": 51.549167,
+    "year": 1879,
+    "ID": 324
+  },
+  "325": {
+    "label": "WillesdenJunction",
+    "lat": -0.2439,
+    "lon": 51.5324,
+    "year": 1915,
+    "ID": 325
+  },
+  "326": {
+    "label": "Wimbledon",
+    "lat": -0.2043,
+    "lon": 51.4232,
+    "year": 1889,
+    "ID": 326
+  },
+  "327": {
+    "label": "WimbledonPark",
+    "lat": -0.20027,
+    "lon": 51.43408,
+    "year": 1889,
+    "ID": 327
+  },
+  "328": {
+    "label": "WoodGreen",
+    "lat": -0.11,
+    "lon": 51.597222,
+    "year": 1932,
+    "ID": 328
+  },
+  "329": {
+    "label": "WoodLane",
+    "lat": -0.224361,
+    "lon": 51.509114,
+    "year": 2008,
+    "ID": 329
+  },
+  "330": {
+    "label": "Woodford",
+    "lat": 0.034167,
+    "lon": 51.606944,
+    "year": 1947,
+    "ID": 330
+  },
+  "331": {
+    "label": "WoodgrangePark",
+    "lat": 0.0454,
+    "lon": 51.5487,
+    "year": 1894,
+    "ID": 331
+  },
+  "332": {
+    "label": "WoodsidePark",
+    "lat": -0.185556,
+    "lon": 51.618056,
+    "year": 1940,
+    "ID": 332
+  },
+  "333": {
+    "label": "WoolwichArsenal",
+    "lat": 0.0694,
+    "lon": 51.4898,
+    "year": 1849,
+    "ID": 333
+  }
+}

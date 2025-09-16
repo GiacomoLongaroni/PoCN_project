@@ -1,0 +1,1150 @@
+{
+  "1": {
+    "label": "AgriculturalExhibitionCenter",
+    "lat": 39.939206,
+    "lon": 116.461437,
+    "year": 2008,
+    "ID": 1
+  },
+  "2": {
+    "label": "Andingmen",
+    "lat": 39.9476526,
+    "lon": 116.4019192,
+    "year": 1984,
+    "ID": 2
+  },
+  "3": {
+    "label": "AnheqiaoNorth",
+    "lat": 40.01105,
+    "lon": 116.263864,
+    "year": 2009,
+    "ID": 3
+  },
+  "4": {
+    "label": "Anzhenmen",
+    "lat": 39.977005,
+    "lon": 116.405954,
+    "year": 2008,
+    "ID": 4
+  },
+  "5": {
+    "label": "Babaoshan",
+    "lat": 39.905,
+    "lon": 116.231111,
+    "year": 1971,
+    "ID": 5
+  },
+  "6": {
+    "label": "Bagou",
+    "lat": 39.974167,
+    "lon": 116.292818,
+    "year": 2008,
+    "ID": 6
+  },
+  "7": {
+    "label": "BajiaoAmusementPark",
+    "lat": 39.906111,
+    "lon": 116.206944,
+    "year": 1971,
+    "ID": 7
+  },
+  "8": {
+    "label": "Baliqiao",
+    "lat": 39.905899,
+    "lon": 116.618161,
+    "year": 2003,
+    "ID": 8
+  },
+  "9": {
+    "label": "Beigongmen",
+    "lat": 40.001225,
+    "lon": 116.271211,
+    "year": 2009,
+    "ID": 9
+  },
+  "10": {
+    "label": "BeijingRailwayStation",
+    "lat": 39.902222,
+    "lon": 116.421111,
+    "year": 1971,
+    "ID": 10
+  },
+  "11": {
+    "label": "BeijingSouthRailwayStation",
+    "lat": 39.864351,
+    "lon": 116.3730114,
+    "year": 2008,
+    "ID": 11
+  },
+  "12": {
+    "label": "BeijingZoo",
+    "lat": 39.943608,
+    "lon": 116.368704,
+    "year": 2009,
+    "ID": 12
+  },
+  "13": {
+    "label": "Beitucheng",
+    "lat": 39.976908,
+    "lon": 116.394294,
+    "year": 2008,
+    "ID": 13
+  },
+  "14": {
+    "label": "Beixinqiao",
+    "lat": 39.941004,
+    "lon": 116.416801,
+    "year": 2007,
+    "ID": 14
+  },
+  "15": {
+    "label": "Beiyuan",
+    "lat": 40.043022,
+    "lon": 116.434561,
+    "year": 2003,
+    "ID": 15
+  },
+  "16": {
+    "label": "BeiyuanluNorth",
+    "lat": 40.028889,
+    "lon": 116.411944,
+    "year": 2007,
+    "ID": 16
+  },
+  "17": {
+    "label": "BiomedicalBase",
+    "lat": 39.687056,
+    "lon": 116.322324,
+    "year": 2010,
+    "ID": 17
+  },
+  "18": {
+    "label": "Caishikou",
+    "lat": 39.8879215,
+    "lon": 116.368259,
+    "year": 2009,
+    "ID": 18
+  },
+  "19": {
+    "label": "Changchunjie",
+    "lat": 39.8979941,
+    "lon": 116.3572953,
+    "year": 1969,
+    "ID": 19
+  },
+  "20": {
+    "label": "Chaoyangmen",
+    "lat": 39.9230732,
+    "lon": 116.4281624,
+    "year": 1984,
+    "ID": 20
+  },
+  "21": {
+    "label": "Chegongzhuang",
+    "lat": 39.9309978,
+    "lon": 116.3494978,
+    "year": 1984,
+    "ID": 21
+  },
+  "22": {
+    "label": "Chongwenmen",
+    "lat": 39.8997326,
+    "lon": 116.4120349,
+    "year": 1969,
+    "ID": 22
+  },
+  "23": {
+    "label": "Ciqikou",
+    "lat": 39.893125,
+    "lon": 116.418841,
+    "year": 2007,
+    "ID": 23
+  },
+  "24": {
+    "label": "Ciqu",
+    "lat": 39.803078,
+    "lon": 116.591741,
+    "year": 2010,
+    "ID": 24
+  },
+  "25": {
+    "label": "CiquSouth",
+    "lat": 39.789918,
+    "lon": 116.571716,
+    "year": 2010,
+    "ID": 25
+  },
+  "26": {
+    "label": "CommunicationUniversityofChina",
+    "lat": 39.9092,
+    "lon": 116.555,
+    "year": 2003,
+    "ID": 26
+  },
+  "27": {
+    "label": "Cuigezhuang",
+    "lat": 40.0198413,
+    "lon": 116.4868138,
+    "year": 2010,
+    "ID": 27
+  },
+  "28": {
+    "label": "DatunluEast",
+    "lat": 40.002222,
+    "lon": 116.411111,
+    "year": 2007,
+    "ID": 28
+  },
+  "29": {
+    "label": "Dawanglu",
+    "lat": 39.908333,
+    "lon": 116.477778,
+    "year": 1971,
+    "ID": 29
+  },
+  "30": {
+    "label": "Dazhongsi",
+    "lat": 39.965,
+    "lon": 116.338,
+    "year": 2002,
+    "ID": 30
+  },
+  "31": {
+    "label": "Dengshikou",
+    "lat": 39.91729,
+    "lon": 116.417717,
+    "year": 2007,
+    "ID": 31
+  },
+  "32": {
+    "label": "Dongdan",
+    "lat": 39.908255,
+    "lon": 116.419845,
+    "year": 1971,
+    "ID": 32
+  },
+  "33": {
+    "label": "Dongsi",
+    "lat": 39.9228149,
+    "lon": 116.4114223,
+    "year": 2007,
+    "ID": 33
+  },
+  "34": {
+    "label": "DongsiShitiao",
+    "lat": 39.9322679,
+    "lon": 116.4278971,
+    "year": 1984,
+    "ID": 34
+  },
+  "35": {
+    "label": "Dongzhimen",
+    "lat": 39.9420483,
+    "lon": 116.4284572,
+    "year": 1984,
+    "ID": 35
+  },
+  "36": {
+    "label": "EastGateofPekingUniversity",
+    "lat": 39.9909424,
+    "lon": 116.3097813,
+    "year": 2009,
+    "ID": 36
+  },
+  "37": {
+    "label": "ForestParkSouthGate",
+    "lat": 40.01,
+    "lon": 116.3925,
+    "year": 2008,
+    "ID": 37
+  },
+  "38": {
+    "label": "Fuchengmen",
+    "lat": 39.9224742,
+    "lon": 116.3499441,
+    "year": 1984,
+    "ID": 38
+  },
+  "39": {
+    "label": "Fuxingmen",
+    "lat": 39.906111,
+    "lon": 116.35,
+    "year": 1971,
+    "ID": 39
+  },
+  "40": {
+    "label": "Gaobeidian",
+    "lat": 39.9082733,
+    "lon": 116.5257116,
+    "year": 2003,
+    "ID": 40
+  },
+  "41": {
+    "label": "GaomidianNorth",
+    "lat": 39.7716513,
+    "lon": 116.3247787,
+    "year": 2010,
+    "ID": 41
+  },
+  "42": {
+    "label": "GaomidianSouth",
+    "lat": 39.7613393,
+    "lon": 116.3255578,
+    "year": 2010,
+    "ID": 42
+  },
+  "43": {
+    "label": "Gonghuacheng",
+    "lat": 40.131595,
+    "lon": 116.296815,
+    "year": 2010,
+    "ID": 43
+  },
+  "44": {
+    "label": "Gongyixiqiao",
+    "lat": 39.835882,
+    "lon": 116.370784,
+    "year": 2009,
+    "ID": 44
+  },
+  "45": {
+    "label": "Gongzhufen",
+    "lat": 39.906389,
+    "lon": 116.304167,
+    "year": 1971,
+    "ID": 45
+  },
+  "46": {
+    "label": "Guangximen",
+    "lat": 39.968286,
+    "lon": 116.431871,
+    "year": 2003,
+    "ID": 46
+  },
+  "47": {
+    "label": "Guanzhuang",
+    "lat": 39.9080288,
+    "lon": 116.5932572,
+    "year": 2003,
+    "ID": 47
+  },
+  "48": {
+    "label": "Guchenglu",
+    "lat": 39.906111,
+    "lon": 116.183056,
+    "year": 1971,
+    "ID": 48
+  },
+  "49": {
+    "label": "GulouDajie",
+    "lat": 39.9475286,
+    "lon": 116.388443,
+    "year": 1984,
+    "ID": 49
+  },
+  "50": {
+    "label": "Guomao",
+    "lat": 39.909819,
+    "lon": 116.455572,
+    "year": 1971,
+    "ID": 50
+  },
+  "51": {
+    "label": "Guoyuan",
+    "lat": 39.8921985,
+    "lon": 116.6408471,
+    "year": 2003,
+    "ID": 51
+  },
+  "52": {
+    "label": "HaidianHuangzhuang",
+    "lat": 39.943608,
+    "lon": 116.368704,
+    "year": 2009,
+    "ID": 52
+  },
+  "53": {
+    "label": "HepingliBeijie",
+    "lat": 39.959059,
+    "lon": 116.418407,
+    "year": 2007,
+    "ID": 53
+  },
+  "54": {
+    "label": "Hepingmen",
+    "lat": 39.8986273,
+    "lon": 116.3780495,
+    "year": 1969,
+    "ID": 54
+  },
+  "55": {
+    "label": "Hepingxiqiao",
+    "lat": 39.968546,
+    "lon": 116.417975,
+    "year": 2007,
+    "ID": 55
+  },
+  "56": {
+    "label": "Houshayu",
+    "lat": 40.1130433,
+    "lon": 116.5585507,
+    "year": 2010,
+    "ID": 56
+  },
+  "57": {
+    "label": "Hualikan",
+    "lat": 40.083333,
+    "lon": 116.551794,
+    "year": 2010,
+    "ID": 57
+  },
+  "58": {
+    "label": "HuangcunRailwayStation",
+    "lat": 39.7213135,
+    "lon": 116.3266283,
+    "year": 2010,
+    "ID": 58
+  },
+  "59": {
+    "label": "HuangcunXidajie",
+    "lat": 39.7310326,
+    "lon": 116.3264648,
+    "year": 2010,
+    "ID": 59
+  },
+  "60": {
+    "label": "Huilongguan",
+    "lat": 40.071719,
+    "lon": 116.334776,
+    "year": 2002,
+    "ID": 60
+  },
+  "61": {
+    "label": "HuixinxijieBeikou",
+    "lat": 39.987332,
+    "lon": 116.417164,
+    "year": 2007,
+    "ID": 61
+  },
+  "62": {
+    "label": "HuixinxijieNankou",
+    "lat": 39.978024,
+    "lon": 116.417515,
+    "year": 2007,
+    "ID": 62
+  },
+  "63": {
+    "label": "Hujialou",
+    "lat": 39.923415,
+    "lon": 116.461744,
+    "year": 2008,
+    "ID": 63
+  },
+  "64": {
+    "label": "Huoying",
+    "lat": 40.070556,
+    "lon": 116.360278,
+    "year": 2002,
+    "ID": 64
+  },
+  "65": {
+    "label": "Jiandemen",
+    "lat": 39.976736,
+    "lon": 116.380869,
+    "year": 2008,
+    "ID": 65
+  },
+  "66": {
+    "label": "Jianguomen",
+    "lat": 39.905258,
+    "lon": 116.435755,
+    "year": 1971,
+    "ID": 66
+  },
+  "67": {
+    "label": "JiaomenWest",
+    "lat": 39.845552,
+    "lon": 116.371106,
+    "year": 2009,
+    "ID": 67
+  },
+  "68": {
+    "label": "JinghaiLu",
+    "lat": 39.784166,
+    "lon": 116.562352,
+    "year": 2010,
+    "ID": 68
+  },
+  "69": {
+    "label": "Jinsong",
+    "lat": 39.884554,
+    "lon": 116.461237,
+    "year": 2008,
+    "ID": 69
+  },
+  "70": {
+    "label": "Jintaixizhao",
+    "lat": 39.917263,
+    "lon": 116.461757,
+    "year": 2008,
+    "ID": 70
+  },
+  "71": {
+    "label": "Jishuitan",
+    "lat": 39.948714,
+    "lon": 116.37318,
+    "year": 1984,
+    "ID": 71
+  },
+  "72": {
+    "label": "Jiugong",
+    "lat": 39.807079,
+    "lon": 116.460881,
+    "year": 2010,
+    "ID": 72
+  },
+  "73": {
+    "label": "Jiukeshu",
+    "lat": 39.8890917,
+    "lon": 116.6516232,
+    "year": 2003,
+    "ID": 73
+  },
+  "74": {
+    "label": "Liangmaqiao",
+    "lat": 39.949383,
+    "lon": 116.461733,
+    "year": 2008,
+    "ID": 74
+  },
+  "75": {
+    "label": "LifeSciencePark",
+    "lat": 40.094247,
+    "lon": 116.293589,
+    "year": 2010,
+    "ID": 75
+  },
+  "76": {
+    "label": "LingjingHutong",
+    "lat": 39.914638,
+    "lon": 116.376137,
+    "year": 2009,
+    "ID": 76
+  },
+  "77": {
+    "label": "Linheli",
+    "lat": 39.874222,
+    "lon": 116.672903,
+    "year": 2003,
+    "ID": 77
+  },
+  "78": {
+    "label": "Lishuiqiao",
+    "lat": 40.051111,
+    "lon": 116.405833,
+    "year": 2007,
+    "ID": 78
+  },
+  "79": {
+    "label": "LishuiqiaoSouth",
+    "lat": 40.0404204,
+    "lon": 116.4083414,
+    "year": 2007,
+    "ID": 79
+  },
+  "80": {
+    "label": "Liufang",
+    "lat": 39.958239,
+    "lon": 116.432655,
+    "year": 2003,
+    "ID": 80
+  },
+  "81": {
+    "label": "Liujiayao",
+    "lat": 39.857647,
+    "lon": 116.422124,
+    "year": 2007,
+    "ID": 81
+  },
+  "82": {
+    "label": "Liyuan",
+    "lat": 39.8824201,
+    "lon": 116.6628241,
+    "year": 2003,
+    "ID": 82
+  },
+  "83": {
+    "label": "Longze",
+    "lat": 40.070804,
+    "lon": 116.319599,
+    "year": 2002,
+    "ID": 83
+  },
+  "84": {
+    "label": "Majiapu",
+    "lat": 39.853334,
+    "lon": 116.37136,
+    "year": 2009,
+    "ID": 84
+  },
+  "85": {
+    "label": "Maquanying",
+    "lat": 40.032836,
+    "lon": 116.496543,
+    "year": 2010,
+    "ID": 85
+  },
+  "86": {
+    "label": "MilitaryMuseum",
+    "lat": 39.906389,
+    "lon": 116.316667,
+    "year": 1971,
+    "ID": 86
+  },
+  "87": {
+    "label": "Mudanyuan",
+    "lat": 39.976468,
+    "lon": 116.369935,
+    "year": 2008,
+    "ID": 87
+  },
+  "88": {
+    "label": "Muxidi",
+    "lat": 39.906111,
+    "lon": 116.331944,
+    "year": 1971,
+    "ID": 88
+  },
+  "89": {
+    "label": "Nanlishilu",
+    "lat": 39.905833,
+    "lon": 116.345278,
+    "year": 1971,
+    "ID": 89
+  },
+  "90": {
+    "label": "Nanshao",
+    "lat": 40.206605,
+    "lon": 116.288308,
+    "year": 2010,
+    "ID": 90
+  },
+  "91": {
+    "label": "NationalLibraryofChina",
+    "lat": 39.942778,
+    "lon": 116.318889,
+    "year": 2009,
+    "ID": 91
+  },
+  "92": {
+    "label": "NewChinaInternational",
+    "lat": 40.0690489,
+    "lon": 116.5493517,
+    "year": 2010,
+    "ID": 92
+  },
+  "93": {
+    "label": "OlympicGreen",
+    "lat": 40.001125,
+    "lon": 116.386853,
+    "year": 2008,
+    "ID": 93
+  },
+  "94": {
+    "label": "OlympicSportsCenter",
+    "lat": 39.985545,
+    "lon": 116.393923,
+    "year": 2008,
+    "ID": 94
+  },
+  "95": {
+    "label": "Ping'anli",
+    "lat": 39.933788,
+    "lon": 116.373014,
+    "year": 2009,
+    "ID": 95
+  },
+  "96": {
+    "label": "Pingguoyuan",
+    "lat": 39.925,
+    "lon": 116.171944,
+    "year": 1971,
+    "ID": 96
+  },
+  "97": {
+    "label": "Puhuangyu",
+    "lat": 39.866567,
+    "lon": 116.421561,
+    "year": 2007,
+    "ID": 97
+  },
+  "98": {
+    "label": "Qianmen",
+    "lat": 39.8987793,
+    "lon": 116.3932912,
+    "year": 1969,
+    "ID": 98
+  },
+  "99": {
+    "label": "QingyuanLu",
+    "lat": 39.7417545,
+    "lon": 116.3262542,
+    "year": 2010,
+    "ID": 99
+  },
+  "100": {
+    "label": "RenminUniversity",
+    "lat": 39.9655908,
+    "lon": 116.3151615,
+    "year": 2009,
+    "ID": 100
+  },
+  "101": {
+    "label": "RongchangdongJie",
+    "lat": 39.782877,
+    "lon": 116.521299,
+    "year": 2010,
+    "ID": 101
+  },
+  "102": {
+    "label": "RongjingdongJie",
+    "lat": 39.793204,
+    "lon": 116.513237,
+    "year": 2010,
+    "ID": 102
+  },
+  "103": {
+    "label": "Sanyuanqiao",
+    "lat": 39.960866,
+    "lon": 116.456759,
+    "year": 2008,
+    "ID": 103
+  },
+  "104": {
+    "label": "Shahe",
+    "lat": 40.148327,
+    "lon": 116.288797,
+    "year": 2010,
+    "ID": 104
+  },
+  "105": {
+    "label": "ShaheUniversityPark",
+    "lat": 40.166835,
+    "lon": 116.279133,
+    "year": 2010,
+    "ID": 105
+  },
+  "106": {
+    "label": "Shangdi",
+    "lat": 40.033041,
+    "lon": 116.319941,
+    "year": 2002,
+    "ID": 106
+  },
+  "107": {
+    "label": "Shaoyaoju",
+    "lat": 39.977891,
+    "lon": 116.436113,
+    "year": 2003,
+    "ID": 107
+  },
+  "108": {
+    "label": "Shuangjing",
+    "lat": 39.893528,
+    "lon": 116.461834,
+    "year": 2008,
+    "ID": 108
+  },
+  "109": {
+    "label": "Shuangqiao",
+    "lat": 39.909116,
+    "lon": 116.5710902,
+    "year": 2003,
+    "ID": 109
+  },
+  "110": {
+    "label": "Sihui",
+    "lat": 39.91237,
+    "lon": 116.49868,
+    "year": 1971,
+    "ID": 110
+  },
+  "111": {
+    "label": "SihuiEast",
+    "lat": 39.9072133,
+    "lon": 116.5093866,
+    "year": 1999,
+    "ID": 111
+  },
+  "112": {
+    "label": "Songjiazhuang",
+    "lat": 39.8444,
+    "lon": 116.422,
+    "year": 2007,
+    "ID": 112
+  },
+  "113": {
+    "label": "Sunhe",
+    "lat": 40.0441276,
+    "lon": 116.5287842,
+    "year": 2010,
+    "ID": 113
+  },
+  "114": {
+    "label": "Suzhoujie",
+    "lat": 39.975638,
+    "lon": 116.30627,
+    "year": 2008,
+    "ID": 114
+  },
+  "115": {
+    "label": "Taiyanggong",
+    "lat": 39.972864,
+    "lon": 116.447612,
+    "year": 2008,
+    "ID": 115
+  },
+  "116": {
+    "label": "Taoranting",
+    "lat": 39.878588,
+    "lon": 116.374389,
+    "year": 2009,
+    "ID": 116
+  },
+  "117": {
+    "label": "Terminal2",
+    "lat": 40.079431,
+    "lon": 116.592782,
+    "year": 2008,
+    "ID": 117
+  },
+  "118": {
+    "label": "Terminal3",
+    "lat": 40.052888,
+    "lon": 116.615801,
+    "year": 2008,
+    "ID": 118
+  },
+  "119": {
+    "label": "Tian'anmenEast",
+    "lat": 39.901206,
+    "lon": 116.422043,
+    "year": 1971,
+    "ID": 119
+  },
+  "120": {
+    "label": "Tian'anmenWest",
+    "lat": 39.901258,
+    "lon": 116.41905,
+    "year": 1971,
+    "ID": 120
+  },
+  "121": {
+    "label": "Tiangongyuan",
+    "lat": 39.670227,
+    "lon": 116.319807,
+    "year": 2010,
+    "ID": 121
+  },
+  "122": {
+    "label": "Tiantandongmen",
+    "lat": 39.883067,
+    "lon": 116.420832,
+    "year": 2007,
+    "ID": 122
+  },
+  "123": {
+    "label": "Tiantongyuan",
+    "lat": 40.0737617,
+    "lon": 116.4065481,
+    "year": 2007,
+    "ID": 123
+  },
+  "124": {
+    "label": "TiantongyuanNorth",
+    "lat": 40.081944,
+    "lon": 116.406667,
+    "year": 2007,
+    "ID": 124
+  },
+  "125": {
+    "label": "TiantongyuanSouth",
+    "lat": 40.065,
+    "lon": 116.406389,
+    "year": 2007,
+    "ID": 125
+  },
+  "126": {
+    "label": "TongjiNanlu",
+    "lat": 39.773315,
+    "lon": 116.540206,
+    "year": 2010,
+    "ID": 126
+  },
+  "127": {
+    "label": "TongzhouBeiyuan",
+    "lat": 39.903646,
+    "lon": 116.637192,
+    "year": 2003,
+    "ID": 127
+  },
+  "128": {
+    "label": "Tuanjiehu",
+    "lat": 39.933747,
+    "lon": 116.461806,
+    "year": 2008,
+    "ID": 128
+  },
+  "129": {
+    "label": "Tuqiao",
+    "lat": 39.8706817,
+    "lon": 116.6803702,
+    "year": 2003,
+    "ID": 129
+  },
+  "130": {
+    "label": "Wangfujing",
+    "lat": 39.906667,
+    "lon": 116.405278,
+    "year": 1971,
+    "ID": 130
+  },
+  "131": {
+    "label": "Wangjing",
+    "lat": 39.9958554,
+    "lon": 116.4623665,
+    "year": 2010,
+    "ID": 131
+  },
+  "132": {
+    "label": "WangjingWest",
+    "lat": 39.994078,
+    "lon": 116.442506,
+    "year": 2003,
+    "ID": 132
+  },
+  "133": {
+    "label": "Wanshoulu",
+    "lat": 39.906111,
+    "lon": 116.288889,
+    "year": 1971,
+    "ID": 133
+  },
+  "134": {
+    "label": "Wanyuanjie",
+    "lat": 39.803651,
+    "lon": 116.505154,
+    "year": 2010,
+    "ID": 134
+  },
+  "135": {
+    "label": "Weigongcun",
+    "lat": 39.958096,
+    "lon": 116.323074,
+    "year": 2009,
+    "ID": 135
+  },
+  "136": {
+    "label": "Wudaokou",
+    "lat": 39.992898,
+    "lon": 116.337631,
+    "year": 2009,
+    "ID": 136
+  },
+  "137": {
+    "label": "Wukesong",
+    "lat": 39.906389,
+    "lon": 116.268611,
+    "year": 1971,
+    "ID": 137
+  },
+  "138": {
+    "label": "Xiaocun",
+    "lat": 39.833225,
+    "lon": 116.448118,
+    "year": 2010,
+    "ID": 138
+  },
+  "139": {
+    "label": "Xiaohongmen",
+    "lat": 39.828037,
+    "lon": 116.459855,
+    "year": 2010,
+    "ID": 139
+  },
+  "140": {
+    "label": "Xidan",
+    "lat": 39.905833,
+    "lon": 116.367778,
+    "year": 1971,
+    "ID": 140
+  },
+  "141": {
+    "label": "Xi'erqi",
+    "lat": 40.052303,
+    "lon": 116.306554,
+    "year": 2002,
+    "ID": 141
+  },
+  "142": {
+    "label": "Xihongmen",
+    "lat": 39.787966,
+    "lon": 116.3225739,
+    "year": 2010,
+    "ID": 142
+  },
+  "143": {
+    "label": "Xingong",
+    "lat": 39.8109933,
+    "lon": 116.359374,
+    "year": 2010,
+    "ID": 143
+  },
+  "144": {
+    "label": "Xinjiekou",
+    "lat": 39.940602,
+    "lon": 116.367671,
+    "year": 2009,
+    "ID": 144
+  },
+  "145": {
+    "label": "Xishimen",
+    "lat": 39.9405,
+    "lon": 116.355,
+    "year": 1971,
+    "ID": 145
+  },
+  "146": {
+    "label": "Xisi",
+    "lat": 39.925933,
+    "lon": 116.373375,
+    "year": 2009,
+    "ID": 146
+  },
+  "147": {
+    "label": "Xitucheng",
+    "lat": 39.9762,
+    "lon": 116.353832,
+    "year": 2008,
+    "ID": 147
+  },
+  "148": {
+    "label": "Xiyuan",
+    "lat": 39.997128,
+    "lon": 116.284789,
+    "year": 2009,
+    "ID": 148
+  },
+  "149": {
+    "label": "Xizhimen",
+    "lat": 39.9405,
+    "lon": 116.355,
+    "year": 1984,
+    "ID": 149
+  },
+  "150": {
+    "label": "Xuanwumen",
+    "lat": 39.8982908,
+    "lon": 116.3681359,
+    "year": 1971,
+    "ID": 150
+  },
+  "151": {
+    "label": "Yihezhuang",
+    "lat": 39.711716,
+    "lon": 116.318724,
+    "year": 2010,
+    "ID": 151
+  },
+  "152": {
+    "label": "YizhuangCulturePark",
+    "lat": 39.807469,
+    "lon": 116.491714,
+    "year": 2010,
+    "ID": 152
+  },
+  "153": {
+    "label": "Yizhuangqiao",
+    "lat": 39.802853,
+    "lon": 116.480261,
+    "year": 2010,
+    "ID": 153
+  },
+  "154": {
+    "label": "YizhuangRailwayStation",
+    "lat": 39.813125,
+    "lon": 116.602346,
+    "year": 2010,
+    "ID": 154
+  },
+  "155": {
+    "label": "Yonganli",
+    "lat": 39.908288,
+    "lon": 116.44598,
+    "year": 1971,
+    "ID": 155
+  },
+  "156": {
+    "label": "YonghegongLamaTemple",
+    "lat": 39.949337,
+    "lon": 116.416989,
+    "year": 2007,
+    "ID": 156
+  },
+  "157": {
+    "label": "YuanmingyuanPark(OldSummerPalace)",
+    "lat": 39.9984834,
+    "lon": 116.3036532,
+    "year": 2009,
+    "ID": 157
+  },
+  "158": {
+    "label": "Yuquanlu",
+    "lat": 39.906111,
+    "lon": 116.246944,
+    "year": 1971,
+    "ID": 158
+  },
+  "159": {
+    "label": "Zaoyuan",
+    "lat": 39.753455,
+    "lon": 116.332262,
+    "year": 2010,
+    "ID": 159
+  },
+  "160": {
+    "label": "Zhangzizhonglu",
+    "lat": 39.933665,
+    "lon": 116.417153,
+    "year": 2007,
+    "ID": 160
+  },
+  "161": {
+    "label": "Zhichunli",
+    "lat": 39.976332,
+    "lon": 116.32862,
+    "year": 2008,
+    "ID": 161
+  },
+  "162": {
+    "label": "Zhichunlu",
+    "lat": 39.9754441,
+    "lon": 116.3365512,
+    "year": 2002,
+    "ID": 162
+  },
+  "163": {
+    "label": "Zhongguancun",
+    "lat": 39.983122,
+    "lon": 116.310372,
+    "year": 2009,
+    "ID": 163
+  },
+  "164": {
+    "label": "Zhuxinzhuang",
+    "lat": 40.105746,
+    "lon": 116.321418,
+    "year": 2010,
+    "ID": 164
+  }
+}

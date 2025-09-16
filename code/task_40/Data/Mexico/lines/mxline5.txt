@@ -1,0 +1,12 @@
+Politecnico	InstitutodelPetroleo
+InstitutodelPetroleo	AutobusesdelNorte
+AutobusesdelNorte	LaRaza
+LaRaza	Misterios
+Misterios	ValleGomez
+ValleGomez	Consulado
+Consulado	EduardoMolina
+EduardoMolina	Aragon
+Aragon	Oceania
+Oceania	TerminalAerea
+TerminalAerea	Hangares
+Hangares	Pantitlan

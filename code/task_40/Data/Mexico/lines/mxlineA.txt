@@ -1,0 +1,9 @@
+Pantitlan	AgricolaOriental
+AgricolaOriental	CanaldeSanJuan
+CanaldeSanJuan	Tepalcates
+Tepalcates	Guelatao
+Guelatao	PenonViejo
+PenonViejo	Acatitla
+Acatitla	SantaMarta
+SantaMarta	LosReyes
+LosReyes	LaPaz

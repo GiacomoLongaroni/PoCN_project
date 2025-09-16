@@ -1,0 +1,11 @@
+Tacubaya	Patriotismo
+Patriotismo	Chilpancigo
+Chilpancigo	CentroMedico
+CentroMedico	LazaroCardenas
+LazaroCardenas	Chabacano
+Chabacano	Jamaica
+Jamaica	Mixiuhca
+Mixiuhca	Velodromo
+Velodromo	CiudadDeportiva
+CiudadDeportiva	Puebla
+Puebla	Pantitlan

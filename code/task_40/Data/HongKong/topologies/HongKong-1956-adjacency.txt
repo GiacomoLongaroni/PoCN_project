@@ -1,0 +1,10 @@
+ShaTin	MongKokEast
+ShaTin	TaiPoMarket
+Fanling	TaiPoMarket
+Fanling	SheungShui
+LoWu	SheungShui
+TaiPoMarket	ShaTin
+TaiPoMarket	Fanling
+MongKokEast	ShaTin
+SheungShui	Fanling
+SheungShui	LoWu

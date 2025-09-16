@@ -1,0 +1,10 @@
+ElRosario	Tezozomoc
+Tezozomoc	Azcapotzalco
+Azcapotzalco	Ferreria
+Ferreria	Norte45
+Norte45	Vallejo
+Vallejo	InstitutodelPetroleo
+InstitutodelPetroleo	Lindavista
+Lindavista	Deportivo18deMarzo
+Deportivo18deMarzo	LaVillaBasilica
+LaVillaBasilica	MartinCarrera

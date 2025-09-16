@@ -1,0 +1,1031 @@
+{
+  "1": {
+    "label": "Acatitla",
+    "lat": 19.364737,
+    "lon": -99.005892,
+    "year": 1991,
+    "ID": 1
+  },
+  "2": {
+    "label": "Aculco",
+    "lat": 19.374069,
+    "lon": -99.108095,
+    "year": 1994,
+    "ID": 2
+  },
+  "3": {
+    "label": "AgricolaOriental",
+    "lat": 19.404835,
+    "lon": -99.069901,
+    "year": 1991,
+    "ID": 3
+  },
+  "4": {
+    "label": "Allende",
+    "lat": 19.435514,
+    "lon": -99.137406,
+    "year": 1970,
+    "ID": 4
+  },
+  "5": {
+    "label": "Apatlaco",
+    "lat": 19.379292,
+    "lon": -99.109597,
+    "year": 1994,
+    "ID": 5
+  },
+  "6": {
+    "label": "AquilesSerdan",
+    "lat": 19.490423,
+    "lon": -99.19487,
+    "year": 1988,
+    "ID": 6
+  },
+  "7": {
+    "label": "Aragon",
+    "lat": 19.451236,
+    "lon": -99.095886,
+    "year": 1981,
+    "ID": 7
+  },
+  "8": {
+    "label": "Atlalilco",
+    "lat": 19.356134,
+    "lon": -99.101315,
+    "year": 1994,
+    "ID": 8
+  },
+  "9": {
+    "label": "Auditorio",
+    "lat": 19.425498,
+    "lon": -99.191995,
+    "year": 1984,
+    "ID": 9
+  },
+  "10": {
+    "label": "AutobusesdelNorte",
+    "lat": 19.478973,
+    "lon": -99.140668,
+    "year": 1982,
+    "ID": 10
+  },
+  "11": {
+    "label": "Azcapotzalco",
+    "lat": 19.490989,
+    "lon": -99.186416,
+    "year": 1983,
+    "ID": 11
+  },
+  "12": {
+    "label": "Balbuena",
+    "lat": 19.423231,
+    "lon": -99.102302,
+    "year": 1969,
+    "ID": 12
+  },
+  "13": {
+    "label": "Balderas",
+    "lat": 19.42744,
+    "lon": -99.149036,
+    "year": 1969,
+    "ID": 13
+  },
+  "14": {
+    "label": "BarrancadelMuerto",
+    "lat": 19.360648,
+    "lon": -99.190149,
+    "year": 1985,
+    "ID": 14
+  },
+  "15": {
+    "label": "BellasArtes",
+    "lat": 19.436243,
+    "lon": -99.141955,
+    "year": 1970,
+    "ID": 15
+  },
+  "16": {
+    "label": "Bondojito",
+    "lat": 19.46461,
+    "lon": -99.111958,
+    "year": 1981,
+    "ID": 16
+  },
+  "17": {
+    "label": "BosquedeAragon",
+    "lat": 19.458115,
+    "lon": -99.069192,
+    "year": 1999,
+    "ID": 17
+  },
+  "18": {
+    "label": "BoulevardPtoAereo",
+    "lat": 19.41967,
+    "lon": -99.09595,
+    "year": 1969,
+    "ID": 18
+  },
+  "19": {
+    "label": "Buenavista",
+    "lat": 19.446603,
+    "lon": -99.153199,
+    "year": 1999,
+    "ID": 19
+  },
+  "20": {
+    "label": "Camarones",
+    "lat": 19.479135,
+    "lon": -99.190063,
+    "year": 1988,
+    "ID": 20
+  },
+  "21": {
+    "label": "CanaldeSanJuan",
+    "lat": 19.398683,
+    "lon": -99.059365,
+    "year": 1991,
+    "ID": 21
+  },
+  "22": {
+    "label": "CanaldelNorte",
+    "lat": 19.449112,
+    "lon": -99.116507,
+    "year": 1981,
+    "ID": 22
+  },
+  "23": {
+    "label": "Candelaria",
+    "lat": 19.428837,
+    "lon": -99.119511,
+    "year": 1969,
+    "ID": 23
+  },
+  "24": {
+    "label": "CdelaEstrella",
+    "lat": 19.356012,
+    "lon": -99.085522,
+    "year": 1994,
+    "ID": 24
+  },
+  "25": {
+    "label": "CentroMedico",
+    "lat": 19.406637,
+    "lon": -99.155753,
+    "year": 1980,
+    "ID": 25
+  },
+  "26": {
+    "label": "Chabacano",
+    "lat": 19.408438,
+    "lon": -99.135754,
+    "year": 1970,
+    "ID": 26
+  },
+  "27": {
+    "label": "Chapultepec",
+    "lat": 19.420783,
+    "lon": -99.176288,
+    "year": 1969,
+    "ID": 27
+  },
+  "28": {
+    "label": "Chilpancigo",
+    "lat": 19.406131,
+    "lon": -99.168477,
+    "year": 1988,
+    "ID": 28
+  },
+  "29": {
+    "label": "CiudadAzteca",
+    "lat": 19.534595,
+    "lon": -99.0275,
+    "year": 2000,
+    "ID": 29
+  },
+  "30": {
+    "label": "CiudadDeportiva",
+    "lat": 19.408357,
+    "lon": -99.091229,
+    "year": 1987,
+    "ID": 30
+  },
+  "31": {
+    "label": "ColegioMilitar",
+    "lat": 19.449354,
+    "lon": -99.172254,
+    "year": 1970,
+    "ID": 31
+  },
+  "32": {
+    "label": "Constde1917",
+    "lat": 19.34593,
+    "lon": -99.063892,
+    "year": 1994,
+    "ID": 32
+  },
+  "33": {
+    "label": "Constituyentes",
+    "lat": 19.411858,
+    "lon": -99.191265,
+    "year": 1985,
+    "ID": 33
+  },
+  "34": {
+    "label": "Consulado",
+    "lat": 19.457893,
+    "lon": -99.113932,
+    "year": 1981,
+    "ID": 34
+  },
+  "35": {
+    "label": "Copilco",
+    "lat": 19.335887,
+    "lon": -99.176652,
+    "year": 1983,
+    "ID": 35
+  },
+  "36": {
+    "label": "Coyoacan",
+    "lat": 19.361417,
+    "lon": -99.170709,
+    "year": 1983,
+    "ID": 36
+  },
+  "37": {
+    "label": "Coyuya",
+    "lat": 19.398521,
+    "lon": -99.113545,
+    "year": 1994,
+    "ID": 37
+  },
+  "38": {
+    "label": "CuatroCaminos",
+    "lat": 19.459592,
+    "lon": -99.215899,
+    "year": 1984,
+    "ID": 38
+  },
+  "39": {
+    "label": "Cuauhtemoc",
+    "lat": 19.425862,
+    "lon": -99.154701,
+    "year": 1969,
+    "ID": 39
+  },
+  "40": {
+    "label": "Cuitlahuac",
+    "lat": 19.457448,
+    "lon": -99.182038,
+    "year": 1970,
+    "ID": 40
+  },
+  "41": {
+    "label": "Deportivo18deMarzo",
+    "lat": 19.483747,
+    "lon": -99.126549,
+    "year": 1979,
+    "ID": 41
+  },
+  "42": {
+    "label": "DeportivoOceania",
+    "lat": 19.451034,
+    "lon": -99.07917,
+    "year": 1999,
+    "ID": 42
+  },
+  "43": {
+    "label": "DivisiondelNorte",
+    "lat": 19.380021,
+    "lon": -99.158885,
+    "year": 1980,
+    "ID": 43
+  },
+  "44": {
+    "label": "Doctores",
+    "lat": 19.421612,
+    "lon": -99.143372,
+    "year": 1994,
+    "ID": 44
+  },
+  "45": {
+    "label": "Ecatepec",
+    "lat": 19.515301,
+    "lon": -99.035997,
+    "year": 2000,
+    "ID": 45
+  },
+  "46": {
+    "label": "EduardoMolina",
+    "lat": 19.451378,
+    "lon": -99.105434,
+    "year": 1981,
+    "ID": 46
+  },
+  "47": {
+    "label": "ElRosario",
+    "lat": 19.504541,
+    "lon": -99.20002,
+    "year": 1988,
+    "ID": 47
+  },
+  "48": {
+    "label": "Ermita",
+    "lat": 19.361883,
+    "lon": -99.142942,
+    "year": 1970,
+    "ID": 48
+  },
+  "49": {
+    "label": "Escuadron201",
+    "lat": 19.36492,
+    "lon": -99.109554,
+    "year": 1994,
+    "ID": 49
+  },
+  "50": {
+    "label": "EtiopiaPlazadelaTransparencia",
+    "lat": 19.395586,
+    "lon": -99.156268,
+    "year": 1980,
+    "ID": 50
+  },
+  "51": {
+    "label": "Eugenia",
+    "lat": 19.385466,
+    "lon": -99.157469,
+    "year": 1980,
+    "ID": 51
+  },
+  "52": {
+    "label": "Ferreria",
+    "lat": 19.490746,
+    "lon": -99.173841,
+    "year": 1983,
+    "ID": 52
+  },
+  "53": {
+    "label": "FloresMagon",
+    "lat": 19.436567,
+    "lon": -99.103675,
+    "year": 1999,
+    "ID": 53
+  },
+  "54": {
+    "label": "FrayServando",
+    "lat": 19.421633,
+    "lon": -99.120541,
+    "year": 1982,
+    "ID": 54
+  },
+  "55": {
+    "label": "GaribaldiLagunilla",
+    "lat": 19.444458,
+    "lon": -99.139724,
+    "year": 1994,
+    "ID": 55
+  },
+  "56": {
+    "label": "GeneralAnaya",
+    "lat": 19.353259,
+    "lon": -99.145002,
+    "year": 1970,
+    "ID": 56
+  },
+  "57": {
+    "label": "GomezFarias",
+    "lat": 19.416472,
+    "lon": -99.09035,
+    "year": 1969,
+    "ID": 57
+  },
+  "58": {
+    "label": "Guelatao",
+    "lat": 19.385162,
+    "lon": -99.03574,
+    "year": 1991,
+    "ID": 58
+  },
+  "59": {
+    "label": "Guerrero",
+    "lat": 19.445146,
+    "lon": -99.145389,
+    "year": 1970,
+    "ID": 59
+  },
+  "60": {
+    "label": "Hangares",
+    "lat": 19.424142,
+    "lon": -99.087496,
+    "year": 1981,
+    "ID": 60
+  },
+  "61": {
+    "label": "Hidalgo",
+    "lat": 19.437295,
+    "lon": -99.147105,
+    "year": 1970,
+    "ID": 61
+  },
+  "62": {
+    "label": "HospitalGeneral",
+    "lat": 19.413578,
+    "lon": -99.153886,
+    "year": 1970,
+    "ID": 62
+  },
+  "63": {
+    "label": "Impulsora",
+    "lat": 19.485851,
+    "lon": -99.048915,
+    "year": 2000,
+    "ID": 63
+  },
+  "64": {
+    "label": "IndiosVerdes",
+    "lat": 19.495358,
+    "lon": -99.119468,
+    "year": 1979,
+    "ID": 64
+  },
+  "65": {
+    "label": "InstitutodelPetroleo",
+    "lat": 19.489573,
+    "lon": -99.14526,
+    "year": 1982,
+    "ID": 65
+  },
+  "66": {
+    "label": "Insurgentes",
+    "lat": 19.423292,
+    "lon": -99.163177,
+    "year": 1969,
+    "ID": 66
+  },
+  "67": {
+    "label": "IsabellaCatolica",
+    "lat": 19.426732,
+    "lon": -99.137685,
+    "year": 1969,
+    "ID": 67
+  },
+  "68": {
+    "label": "Iztacalco",
+    "lat": 19.388562,
+    "lon": -99.112215,
+    "year": 1994,
+    "ID": 68
+  },
+  "69": {
+    "label": "Iztapalapa",
+    "lat": 19.357834,
+    "lon": -99.093461,
+    "year": 1994,
+    "ID": 69
+  },
+  "70": {
+    "label": "Jamaica",
+    "lat": 19.409004,
+    "lon": -99.122171,
+    "year": 1982,
+    "ID": 70
+  },
+  "71": {
+    "label": "Juanacatlan",
+    "lat": 19.41289,
+    "lon": -99.182167,
+    "year": 1970,
+    "ID": 71
+  },
+  "72": {
+    "label": "Juarez",
+    "lat": 19.433167,
+    "lon": -99.147792,
+    "year": 1970,
+    "ID": 72
+  },
+  "73": {
+    "label": "LaPaz",
+    "lat": 19.350526,
+    "lon": -98.960745,
+    "year": 1991,
+    "ID": 73
+  },
+  "74": {
+    "label": "LaRaza",
+    "lat": 19.470153,
+    "lon": -99.136891,
+    "year": 1978,
+    "ID": 74
+  },
+  "75": {
+    "label": "LaViga",
+    "lat": 19.406495,
+    "lon": -99.126248,
+    "year": 1994,
+    "ID": 75
+  },
+  "76": {
+    "label": "LaVillaBasilica",
+    "lat": 19.481522,
+    "lon": -99.117923,
+    "year": 1986,
+    "ID": 76
+  },
+  "77": {
+    "label": "Lagunilla",
+    "lat": 19.443386,
+    "lon": -99.131334,
+    "year": 1999,
+    "ID": 77
+  },
+  "78": {
+    "label": "LazaroCardenas",
+    "lat": 19.40696,
+    "lon": -99.144874,
+    "year": 1987,
+    "ID": 78
+  },
+  "79": {
+    "label": "Lindavista",
+    "lat": 19.487712,
+    "lon": -99.13466,
+    "year": 1986,
+    "ID": 79
+  },
+  "80": {
+    "label": "LosReyes",
+    "lat": 19.358968,
+    "lon": -98.976903,
+    "year": 1991,
+    "ID": 80
+  },
+  "81": {
+    "label": "MartinCarrera",
+    "lat": 19.484921,
+    "lon": -99.104404,
+    "year": 1981,
+    "ID": 81
+  },
+  "82": {
+    "label": "Merced",
+    "lat": 19.425558,
+    "lon": -99.124639,
+    "year": 1969,
+    "ID": 82
+  },
+  "83": {
+    "label": "MiguelAngeldeQuevedo",
+    "lat": 19.346395,
+    "lon": -99.18103,
+    "year": 1983,
+    "ID": 83
+  },
+  "84": {
+    "label": "Misterios",
+    "lat": 19.463315,
+    "lon": -99.130797,
+    "year": 1982,
+    "ID": 84
+  },
+  "85": {
+    "label": "Mixcoac",
+    "lat": 19.375891,
+    "lon": -99.187531,
+    "year": 1985,
+    "ID": 85
+  },
+  "86": {
+    "label": "Mixiuhca",
+    "lat": 19.408478,
+    "lon": -99.112902,
+    "year": 1987,
+    "ID": 86
+  },
+  "87": {
+    "label": "Moctezuma",
+    "lat": 19.427218,
+    "lon": -99.110305,
+    "year": 1969,
+    "ID": 87
+  },
+  "88": {
+    "label": "Morelos",
+    "lat": 19.438974,
+    "lon": -99.118266,
+    "year": 1981,
+    "ID": 88
+  },
+  "89": {
+    "label": "Muzquiz",
+    "lat": 19.501629,
+    "lon": -99.042048,
+    "year": 2000,
+    "ID": 89
+  },
+  "90": {
+    "label": "Nativitas",
+    "lat": 19.379474,
+    "lon": -99.140217,
+    "year": 1970,
+    "ID": 90
+  },
+  "91": {
+    "label": "Nezahualcoyotl",
+    "lat": 19.473066,
+    "lon": -99.054537,
+    "year": 2000,
+    "ID": 91
+  },
+  "92": {
+    "label": "NinosHeroes",
+    "lat": 19.419508,
+    "lon": -99.150581,
+    "year": 1970,
+    "ID": 92
+  },
+  "93": {
+    "label": "Normal",
+    "lat": 19.4444,
+    "lon": -99.1674,
+    "year": 1970,
+    "ID": 93
+  },
+  "94": {
+    "label": "Norte45",
+    "lat": 19.488683,
+    "lon": -99.162769,
+    "year": 1983,
+    "ID": 94
+  },
+  "95": {
+    "label": "Obrera",
+    "lat": 19.413558,
+    "lon": -99.144187,
+    "year": 1994,
+    "ID": 95
+  },
+  "96": {
+    "label": "Observatorio",
+    "lat": 19.398237,
+    "lon": -99.200363,
+    "year": 1971,
+    "ID": 96
+  },
+  "97": {
+    "label": "Oceania",
+    "lat": 19.445672,
+    "lon": -99.087238,
+    "year": 1981,
+    "ID": 97
+  },
+  "98": {
+    "label": "Olimpica",
+    "lat": 19.521328,
+    "lon": -99.033422,
+    "year": 2000,
+    "ID": 98
+  },
+  "99": {
+    "label": "Panteones",
+    "lat": 19.458763,
+    "lon": -99.203153,
+    "year": 1984,
+    "ID": 99
+  },
+  "100": {
+    "label": "Pantitlan",
+    "lat": 19.415359,
+    "lon": -99.072132,
+    "year": 1981,
+    "ID": 100
+  },
+  "101": {
+    "label": "Patriotismo",
+    "lat": 19.406212,
+    "lon": -99.178905,
+    "year": 1988,
+    "ID": 101
+  },
+  "102": {
+    "label": "PenonViejo",
+    "lat": 19.37332,
+    "lon": -99.017093,
+    "year": 1991,
+    "ID": 102
+  },
+  "103": {
+    "label": "PinoSuarez",
+    "lat": 19.425336,
+    "lon": -99.132943,
+    "year": 1969,
+    "ID": 103
+  },
+  "104": {
+    "label": "PlazaAragon",
+    "lat": 19.528447,
+    "lon": -99.030118,
+    "year": 2000,
+    "ID": 104
+  },
+  "105": {
+    "label": "Polanco",
+    "lat": 19.433511,
+    "lon": -99.191029,
+    "year": 1984,
+    "ID": 105
+  },
+  "106": {
+    "label": "Politecnico",
+    "lat": 19.50082,
+    "lon": -99.149294,
+    "year": 1982,
+    "ID": 106
+  },
+  "107": {
+    "label": "Popotla",
+    "lat": 19.452147,
+    "lon": -99.1747,
+    "year": 1970,
+    "ID": 107
+  },
+  "108": {
+    "label": "Portales",
+    "lat": 19.3698,
+    "lon": -99.1416,
+    "year": 1970,
+    "ID": 108
+  },
+  "109": {
+    "label": "Potrero",
+    "lat": 19.47691,
+    "lon": -99.132171,
+    "year": 1979,
+    "ID": 109
+  },
+  "110": {
+    "label": "Puebla",
+    "lat": 19.407142,
+    "lon": -99.082432,
+    "year": 1987,
+    "ID": 110
+  },
+  "111": {
+    "label": "Refineria",
+    "lat": 19.469951,
+    "lon": -99.190578,
+    "year": 1988,
+    "ID": 111
+  },
+  "112": {
+    "label": "Revolucion",
+    "lat": 19.439561,
+    "lon": -99.155431,
+    "year": 1970,
+    "ID": 112
+  },
+  "113": {
+    "label": "RiodelosRemedios",
+    "lat": 19.490908,
+    "lon": -99.046597,
+    "year": 2000,
+    "ID": 113
+  },
+  "114": {
+    "label": "RomeroRubio",
+    "lat": 19.440735,
+    "lon": -99.094362,
+    "year": 1999,
+    "ID": 114
+  },
+  "115": {
+    "label": "SaltodelAgua",
+    "lat": 19.426813,
+    "lon": -99.142213,
+    "year": 1969,
+    "ID": 115
+  },
+  "116": {
+    "label": "SanAntonioAbad",
+    "lat": 19.418597,
+    "lon": -99.134145,
+    "year": 1970,
+    "ID": 116
+  },
+  "117": {
+    "label": "SanCosme",
+    "lat": 19.441706,
+    "lon": -99.161096,
+    "year": 1970,
+    "ID": 117
+  },
+  "118": {
+    "label": "SanJoaquin",
+    "lat": 19.445793,
+    "lon": -99.191823,
+    "year": 1984,
+    "ID": 118
+  },
+  "119": {
+    "label": "SanJuandeLetran",
+    "lat": 19.431305,
+    "lon": -99.141569,
+    "year": 1994,
+    "ID": 119
+  },
+  "120": {
+    "label": "SanLazaro",
+    "lat": 19.430213,
+    "lon": -99.114833,
+    "year": 1969,
+    "ID": 120
+  },
+  "121": {
+    "label": "SantaAnita",
+    "lat": 19.40273,
+    "lon": -99.121699,
+    "year": 1982,
+    "ID": 121
+  },
+  "122": {
+    "label": "SantaMarta",
+    "lat": 19.36,
+    "lon": -98.994863,
+    "year": 1991,
+    "ID": 122
+  },
+  "123": {
+    "label": "Sevilla",
+    "lat": 19.421916,
+    "lon": -99.17058,
+    "year": 1969,
+    "ID": 123
+  },
+  "124": {
+    "label": "SnAntonio",
+    "lat": 19.384757,
+    "lon": -99.186308,
+    "year": 1985,
+    "ID": 124
+  },
+  "125": {
+    "label": "SnPedrodelosPinos",
+    "lat": 19.391275,
+    "lon": -99.186051,
+    "year": 1985,
+    "ID": 125
+  },
+  "126": {
+    "label": "Tacuba",
+    "lat": 19.459349,
+    "lon": -99.189205,
+    "year": 1970,
+    "ID": 126
+  },
+  "127": {
+    "label": "Tacubaya",
+    "lat": 19.403439,
+    "lon": -99.187102,
+    "year": 1970,
+    "ID": 127
+  },
+  "128": {
+    "label": "Talisman",
+    "lat": 19.47428,
+    "lon": -99.108009,
+    "year": 1981,
+    "ID": 128
+  },
+  "129": {
+    "label": "Tasquena",
+    "lat": 19.344168,
+    "lon": -99.142685,
+    "year": 1970,
+    "ID": 129
+  },
+  "130": {
+    "label": "Tepalcates",
+    "lat": 19.391335,
+    "lon": -99.046383,
+    "year": 1991,
+    "ID": 130
+  },
+  "131": {
+    "label": "Tepito",
+    "lat": 19.442495,
+    "lon": -99.12333,
+    "year": 1999,
+    "ID": 131
+  },
+  "132": {
+    "label": "TerminalAerea",
+    "lat": 19.433734,
+    "lon": -99.087667,
+    "year": 1981,
+    "ID": 132
+  },
+  "133": {
+    "label": "Tezozomoc",
+    "lat": 19.495116,
+    "lon": -99.196286,
+    "year": 1983,
+    "ID": 133
+  },
+  "134": {
+    "label": "Tlatelolco",
+    "lat": 19.454979,
+    "lon": -99.142814,
+    "year": 1970,
+    "ID": 134
+  },
+  "135": {
+    "label": "UAMI",
+    "lat": 19.351234,
+    "lon": -99.074707,
+    "year": 1994,
+    "ID": 135
+  },
+  "136": {
+    "label": "Universidad",
+    "lat": 19.324427,
+    "lon": -99.17397,
+    "year": 1983,
+    "ID": 136
+  },
+  "137": {
+    "label": "ValleGomez",
+    "lat": 19.458742,
+    "lon": -99.119296,
+    "year": 1982,
+    "ID": 137
+  },
+  "138": {
+    "label": "Vallejo",
+    "lat": 19.490625,
+    "lon": -99.15586,
+    "year": 1983,
+    "ID": 138
+  },
+  "139": {
+    "label": "Velodromo",
+    "lat": 19.408478,
+    "lon": -99.103074,
+    "year": 1987,
+    "ID": 139
+  },
+  "140": {
+    "label": "Viaducto",
+    "lat": 19.400808,
+    "lon": -99.136891,
+    "year": 1970,
+    "ID": 140
+  },
+  "141": {
+    "label": "VilladeAragon",
+    "lat": 19.461656,
+    "lon": -99.061704,
+    "year": 1999,
+    "ID": 141
+  },
+  "142": {
+    "label": "VilladeCortes",
+    "lat": 19.38753,
+    "lon": -99.138994,
+    "year": 1970,
+    "ID": 142
+  },
+  "143": {
+    "label": "ViverosDerechosHumanos",
+    "lat": 19.353724,
+    "lon": -99.176052,
+    "year": 1983,
+    "ID": 143
+  },
+  "144": {
+    "label": "Xola",
+    "lat": 19.3952,
+    "lon": -99.1377,
+    "year": 1970,
+    "ID": 144
+  },
+  "145": {
+    "label": "Zapata",
+    "lat": 19.370952,
+    "lon": -99.164937,
+    "year": 1980,
+    "ID": 145
+  },
+  "146": {
+    "label": "Zaragoza",
+    "lat": 19.412344,
+    "lon": -99.08241,
+    "year": 1969,
+    "ID": 146
+  },
+  "147": {
+    "label": "Zocalo",
+    "lat": 19.433248,
+    "lon": -99.1329,
+    "year": 1970,
+    "ID": 147
+  }
+}

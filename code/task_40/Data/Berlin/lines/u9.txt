@@ -1,0 +1,17 @@
+OsloerStrasse			NauenerPlatz 
+NauenerPlatz			Leopoldplatz 
+Leopoldplatz 			AmrumerStrasse
+AmrumerStrasse		Westhafen
+Westhafen			Birkenstrasse
+Birkenstrasse			Turmstrasse
+Turmstrasse			Hansaplatz
+Hansaplatz			ZoologischerGarten       
+ZoologischerGarten       	Kurfuerstendamm 
+Kurfuerstendamm		Spichernstrasse	 
+Spichernstrasse		Guentzelstrasse 
+Guentzelstrasse		BerlinerStrasse 
+BerlinerStrasse			Bundesplatz 
+Bundesplatz			Friedrich-Wilhelm-Platz
+Friedrich-Wilhelm-Platz	Walther-Schreiber-Platz
+Walther-Schreiber-Platz	Schlossstrasse
+Schlossstrasse		RathausSteglitz

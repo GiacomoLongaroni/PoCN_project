@@ -1,0 +1,17 @@
+Moncloa	Argüelles
+Argüelles	VenturaRodrígues
+VenturaRodrígues	PlazadeEspaña
+PlazadeEspaña	Callao
+Callao	Sol
+Sol	Lavapiés
+Lavapiés	Acacias/Embajadores
+Acacias/Embajadores	PalosdelaFrontera
+PalosdelaFrontera	Delicias
+Delicias	Legazpi
+Legazpi	Almendrales
+Almendrales	Hospital12deOctubre
+Hospital12deOctubre	SanFermín-Orcasur
+SanFermín-Orcasur	CiudaddelosÁngeles
+CiudaddelosÁngeles	VillaverdeBajoCruce
+VillaverdeBajoCruce	SanCristóbal
+SanCristóbal	VillaverdeAlto

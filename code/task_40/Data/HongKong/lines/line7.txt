@@ -1,0 +1,7 @@
+NorthPoint	QuarryBay
+QuarryBay	YauTong
+YauTong		TiuKengLeng
+TiuKengLeng	TseungKwanO
+TseungKwanO	HangHau	
+HangHau		PoLam	
+TseungKwanO	LOHASPark

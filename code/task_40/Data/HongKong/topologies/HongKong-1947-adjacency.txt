@@ -1,0 +1,8 @@
+TaiPoMarket	ShaTin
+TaiPoMarket	Fanling
+Fanling	TaiPoMarket
+Fanling	SheungShui
+ShaTin	MongKokEast
+ShaTin	TaiPoMarket
+MongKokEast	ShaTin
+SheungShui	Fanling
