@@ -1,0 +1,165 @@
+\chapter{Subways II}
+
+
+\section{Task definition}
+The objective of this task is to extract meaningful information from a dataset of raw data describing the topology of the subways of different big cities: Barcelona, Beijin, Berlin, Chicago, Hong Kong, London, Madrid, Mexico City. The final goal is to create two files one for nodes including the following information: \textit{nodeID, nodeLabel, latitude, longitude, year} and one for the edges with: \textit{nodeIDfrom, nodeIDto, line, year}.\\
+The whole process can be defined as data cleaning and extraction, taking this into account it has been choosen a python framework to manipulate and extract files.
+
+ 
+
+\section{Raw Data structure}
+Here is an example of the structure of the data provided 
+
+\begin{figure}[H]
+\centering
+\begin{forest}
+for tree={
+    font=\ttfamily,
+    grow'=0,
+    child anchor=west,
+    parent anchor=south,
+    anchor=west,
+    calign=first,
+    inner sep=2pt,
+    edge path={
+      \noexpand\path [draw, \forestoption{edge}]
+      (!u.south west) +(5pt,0) |- (.child anchor) \forestoption{edge label};
+    },
+    before typesetting nodes={
+      if n=1
+        {insert before={[,phantom]}}
+        {}
+    },
+    fit=band,
+    before computing xy={l=15pt},
+}
+[raw data
+  [city
+    [stations dataset (txt)]
+    [secondary station dataset with different infos (txt)]
+    [dedicated line files (txt)]
+    [extra files... (txt/dat/csv)]
+    [Topologies
+        [subway topology over the years (txt/net/mat)]]
+  ]
+]
+\end{forest}
+\end{figure}
+
+To pursue the final task, it was sufficient to identify the minimal set of files and extract the necessary information from them. This initial step was carried out simply by opening the files.
+The information about the nodes was entirely contained within the one/two station datasets, while the information about the edges was found in the topology folder, with a few exceptions that will be discussed later.
+
+\subsection{Data issues}
+For the second file, the main challenge was to determine, for each station, the subway line it belonged to across different years. Regarding the line information, we can distinguish two cases: in Beijing and Barcelona, the line data were stored within the secondary station dataset, while in the second case, all line information was contained in the dedicated line files. and finally the Chicago data where totally lacking of the topology, so the line information across the years.
+
+
+\section{Data extraction}
+Once defined, the set of files needed was copied, renamed, and moved into another folder with a more defined structure to easily extract information from them, the new structure is the following:
+
+\begin{figure}[H]
+\centering
+\begin{forest}
+for tree={
+    font=\ttfamily,
+    grow'=0,
+    child anchor=west,
+    parent anchor=south,
+    anchor=west,
+    calign=first,
+    inner sep=2pt,
+    edge path={
+      \noexpand\path [draw, \forestoption{edge}]
+      (!u.south west) +(5pt,0) |- (.child anchor) \forestoption{edge label};
+    },
+    before typesetting nodes={
+      if n=1
+        {insert before={[,phantom]}}
+        {}
+    },
+    fit=band,
+    before computing xy={l=15pt},
+}
+[data
+  [city
+    [stations\_dataset(s) (.txt)]
+    [lines
+        [line\_i (.txt)]
+        [\dots]]
+    [topologies
+        [topology\_year\_XXXX (.txt/.net/.mat)]
+        [\dots]]
+  ]
+]
+\end{forest}
+\end{figure}
+After this reassessment of the files with some python functions the folders where esplored end the data where extracted in dictionaries as follow:
+\begin{itemize}
+     \item Nodes file informations:
+     \begin{itemize}
+        \item \textit{ nodeLabel, latitude, longitude, year} extracted from \texttt{station\_dataset.txt}
+        \item \textit{nodeID} defined by python function
+    \end{itemize}
+    
+    \item Edges file informations:
+    \begin{itemize}
+        \item \textit{nodeIDfrom, nodeIDto, year} extracted from \texttt{city-yearXXXX-adjecency-number.txt}
+        \item \textit{line} defined by matching stations in \texttt{line\_i} files
+    \end{itemize}
+
+\end{itemize}
+
+\newpage
+\section{final files}
+The final files with all the information are in JSON format obtained from the dictionary previusly, with the following structure:
+\noindent
+
+\begin{multicols}{2}
+
+\textbf{City\_nodes.json}
+
+\begin{verbatim}
+id :{
+      "label" : ..., 
+      "lat"   : ...,  
+      "lon"   : ...,
+      "year"  : ...,
+      "ID"    : ...
+    }
+\end{verbatim}
+
+\columnbreak
+
+\textbf{City\_edges.json}
+
+\begin{verbatim}
+year :[
+    {
+      "id_from" : ...,
+      "id_to"   : ...,
+      "lines": [...]
+    },
+    ...
+    ]
+\end{verbatim}
+\end{multicols}
+\texttt{id} and \texttt{year} can be use as a key for extracting information. Above an example of graphs obtained from this two files for Madrid 
+
+\begin{multicols}{2}
+
+\begin{minipage}{\linewidth}
+    \centering
+    \includegraphics[width=0.9\linewidth]{report_template_v3/images/madrid_1940.pdf}
+    \captionof{figure}{Madrid subways 1940}
+\end{minipage}
+
+\columnbreak
+
+\begin{minipage}{\linewidth}
+    \centering
+    \includegraphics[width=0.9\linewidth]{report_template_v3/images/madrid_2010.pdf}
+    \captionof{figure}{Madrid subways 2010}
+\end{minipage}
+
+\end{multicols}
+
+\newpage

@@ -1,0 +1,73 @@
+\chapter{Entanglement percolation}
+The study of a quantum networks can be an exciting topic for the future development of new technologies. In this report are shown some interesting results regarding entanglement percolation presented in \cite{PhysRevLett.103.240503} on some classical topologies and on a real geometric network.
+
+\section{Theorical background}
+
+We can define a quantum complex network (QCN) as a set of nodes storing some qbits connected by edges that encode the entanglement between the qbits of two nodes \cite{Acin2007}.
+In this framework each partially entangled edge is defined by the two state vector 
+\[
+|\psi\rangle = \sqrt{\lambda_0}|00\rangle + \sqrt{\lambda_1}|11\rangle
+\]
+Each partially entangled state $|\psi\rangle$ can be converted into a maximally entangled by LOCC, with the singlet conversion probability (SCP) $p = \min\{1,2(1-\lambda_0)\}$, this probability can change depending on the use of quantum distillation which is the shares of two identical copies of qbits, in this case the SCP becomes $p_2 = 2p - p^2$. This intrinsic undeterministic nature of a QCN is the perfect framework to study percolation behaviour.
+
+Let us start with an initial graph whose edges represent partially entangled edges. In entanglement percolation, the goal is to study how the size of the giant connected component (GCC) changes as the singlet conversion probability (SCP) varies, where an edge is considered present only when a maximally entangled state is obtained.
+The percolation can be significantly altered in his critical probability $p_c$ by LOCC performing "q-swaps" i.e. a swap in entanglment from a "star-tipe" into "ring" tipe,  as shown in fig \ref{qswap}.
+Note that the q-swap can only be made between non adiacent nodes, and once performed the new partially entangled edges has an SPC of $p$ on avarage. By Targeting some specific nodes, it is possible to alter the topology of the initial graph and reduce the critical probability $p_c$.
+
+\begin{minipage}{\linewidth}
+    \centering
+    \label{qswap}
+    \includegraphics[width=0.8\linewidth]{report_template_v3/images/qswap.png}
+    \captionof{figure}{\footnotesize (\textit{left}) entanglement swap from ($b-c,a-c$) to $a-b$, (\textit{right}) entanglement swap performed on an hub: the edges of the hub are disconnected and the neighbors are connected in a ring-like structure}
+\end{minipage}
+
+
+
+\section{Studied models and metodology}
+
+The percolation process can be investigated by first constructing either a synthetic or a real graph, and then performing edge selection using the SPC as the probability.
+We can then compare two cases: one in which the graph has been modified through the application of qswap, and the other in which it remains unmodified.
+The node targeting strategy can be very different, in general in this report it has been choosen to target the node as in the reference paper, it would be interesting to study the best strategy for different topology. All the analisis are performed with python.
+
+\subsection{Synthetic models}
+The models considered are the Erdős–Rényi and the Watts–Strogatz networks. In both cases,  is applied q-swap strategy with different replicas of the same network, thus always increases the probability of forming a giant connected component (GCC) 2.2, 2.3. For the Erdős–Rényi model, an analytical solution can be derived with some approximation. In general, an effective approach appears to be targeting low-degree nodes. It would be interesting to further investigate the optimal strategy as a function of network characteristic and node centrality. 
+
+\begin{multicols}{2}
+
+\begin{figure}[H]
+    \centering
+    \label{ER}
+    \includegraphics[width=0.7\linewidth]{report_template_v3/images/ER.png}
+    \caption{\footnotesize Entanglement percolation on an Erdős–Rényi graph by targeting nodes with degree 2 and 3}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \label{WS}
+    \includegraphics[width=0.7\linewidth]{report_template_v3/images/WS.png}
+    \caption{\footnotesize Entanglement percolation on a Watts–Strogatz graph by targeting nodes with degree 2 and 3}
+\end{figure}
+
+\end{multicols}
+
+\subsection{Real graph}
+The same methodology is applied to simulate an Italian quantum network.
+A dataset of Italian cities was obtained from \cite{geonames}, and for the analysis we selected all cities with more than 25,000 inhabitants. The network graph was then constructed by connecting nodes whose mutual distance is less than 80 km. This threshold accounts for information loss over fiber links: while practical limits can extend up to ~100 km, we adopt a conservative estimate and set the maximum distance to 80 km.
+
+\begin{figure}
+    \centering
+    \includegraphics[width=0.5\linewidth]{report_template_v3/images/italy_graph.png}
+    \caption{\footnotesize graph of italy with $r_{max}=80$km }
+\end{figure}
+
+The results do not indicate any improvement in the size of the largest component; however, they do reveal a significant decrease in the average cluster size. A more detailed investigation using real network data would be a valuable direction for further assessing the effectiveness of this methodology.
+
+\begin{figure}
+    \centering
+    \includegraphics[width=0.98\linewidth]{report_template_v3/images/itali_stat.png}
+    \caption{\footnotesize  Percolation analysis in the Italian graph}
+\end{figure}
+
+
+
+\newpage
